@@ -14196,5 +14196,173 @@
 "summary": "Organist Maximilian Schnaus sets works by Johann Sebastian Bach against contemporary pieces for organ and electronics.",
 "by": "claude-task",
 "ctx": true
+},
+"Performance: Solitude": {
+"title": "Solitude: Guqin and Shakuhachi Performance",
+"kind": "music",
+"audience": "everyone",
+"summary": "Candlelit ritual performance on life and death by Wolfgang Schwabe (guqin) and Vincent Laju (shakuhachi). Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"Cocktails & Conversations 🦋 Social Butterfly Club": {
+"title": "Cocktails & Conversations – Social Butterfly Club",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Sunday evening social over cocktails and conversation at Voulez Vous Bar; bring one question that puzzles you.",
+"by": "claude-task",
+"ctx": true
+},
+"Reclaim Your Week with Claude: A Live Time-Saving Session [ONLINE]": {
+"title": "Reclaim Your Week with Claude: Live Time-Saving Session (Online)",
+"kind": "workshop",
+"audience": "group",
+"summary": "Online live session by Maheka for Berlin founders: plan the week, draft pending work and set follow-ups using Claude.",
+"by": "claude-task",
+"ctx": true
+},
+"Was an Empfindsamkeit bleibt": {
+"title": "What Remains of Sensitivity",
+"kind": "film",
+"audience": "everyone",
+"summary": "Documentary by Daniela Magnani Hüller, who revisits the people and moments around the attempted femicide she survived 14 years ago.",
+"by": "claude-task",
+"ctx": true
+},
+"Wholetrain": {
+"title": "Wholetrain",
+"kind": "film",
+"audience": "everyone",
+"summary": "Florian Gaag's 2006 film about a crew of four graffiti writers challenged by a rival crew, shown in a 4K remastered version.",
+"by": "claude-task",
+"ctx": true
+},
+"»Trotz allem Schönheit« – Drei Poetiken der Verletzlichkeit mit Lena Tietgen, Elke Cremer & Ingeborg Robles": {
+"title": "Beauty Despite Everything: Reading with Tietgen, Cremer & Robles",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Reading and conversation with three authors on wounds, beauty and love, incl. Elke Cremer's novel »Heimgehen« and Ingeborg Robles' manuscript »Grell«.",
+"by": "claude-task",
+"ctx": true
+},
+"Bilderbuchkino in der Bibliothek Lichtenrade": {
+"title": "Picture-Book Cinema at Bibliothek Lichtenrade",
+"kind": "talk",
+"audience": "kids",
+"summary": "Picture books shown large and read aloud for children aged 4+: „Krümel & Fussel – Im Schneegestöber“. No registration needed.",
+"by": "claude-task",
+"ctx": true
+},
+"Berlin (Spandau)": {
+"title": "Clothes Swap at Stadtbibliothek Spandau",
+"kind": "market",
+"audience": "everyone",
+"summary": "Clothes swap with KlimaWerkstattSpandau in the library's reading café. Bring up to 10 items or come empty-handed; no registration.",
+"by": "claude-task",
+"ctx": true
+},
+"Groovity Music Market x ://glühweingarten @://about blank": {
+"title": "Groovity Music Market x ://glühweingarten at ://about blank",
+"kind": "market",
+"audience": "everyone",
+"summary": "Groovity collective's market for records and instruments, with vinyl DJ sets, mulled wine and vegan food. Kids and leashed dogs welcome.",
+"by": "claude-task",
+"ctx": true
+},
+"Multivisions-Show in der Bibliothek Lichtenrade": {
+"title": "Multivision Show on the Caucasus with Roland Marske",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Roland Marske premieres a multivision slide show about the wild Caucasus mountains and Georgia, Armenia and Azerbaijan.",
+"by": "claude-task",
+"ctx": true
+},
+"Kreative Muster mit Britta in der Bibliothek Lichtenrade": {
+"title": "Creative Patterns with Britta: Group Mandala",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Relaxed group drawing session making a shared mandala artwork; no skills needed, materials provided. Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"Bilderbuchkino in der Stadtteilbibliothek Lichtenrade": {
+"title": "Picture-Book Cinema at Stadtteilbibliothek Lichtenrade",
+"kind": "talk",
+"audience": "kids",
+"summary": "Picture books shown large and read aloud for children aged 4+: „Dr. Brumm feiert Weihnachten“. No registration needed.",
+"by": "claude-task",
+"ctx": true
+},
+"Mini-Maker in der Bibliothek Lichtenrade": {
+"title": "Mini-Maker at Bibliothek Lichtenrade",
+"kind": "workshop",
+"audience": "kids",
+"summary": "Children aged 4+ explore robots, try 3D printing and do handicrafts. No registration needed.",
+"by": "claude-task",
+"ctx": true
+},
+"Lichtenrade liest in der Bibliothek Lichtenrade": {
+"title": "Lichtenrade Reads: Book Circle at Bibliothek Lichtenrade",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Monthly literature conversation with Georg Sturm and Bernd Erhard Fischer where visitors present their favourite books. No registration.",
+"by": "claude-task",
+"ctx": true
+},
+"Letzte Wiese x ://glühweingarten @://about blank": {
+"title": "Letzte Wiese x ://glühweingarten at ://about blank",
+"kind": "festival",
+"audience": "everyone",
+"summary": "LETZTE WIESE hosts floor bingo, a vinyl flea market, tattoos, a tombola, cookies and DJ sets. Kids and leashed dogs welcome.",
+"by": "claude-task",
+"ctx": true
+},
+"Beratung der Deutschen Rentenversicherung in der Bibliothek Lichtenrade": {
+"title": "German Pension Insurance Advice at Bibliothek Lichtenrade",
+"kind": "support",
+"audience": "everyone",
+"summary": "A volunteer advisor answers statutory pension questions and helps with pension applications and forms. Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"Finanz-Fitness mit Matthias Derkowski in der Bibliothek Lichtenrade": {
+"title": "Financial Fitness with Matthias Derkowski",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Part II: step by step, how to put what you learned in the Finanz-Fitness talks into practice. For teens and adults.",
+"by": "claude-task",
+"ctx": true
+},
+"Yu-Gi-Oh! Duell-Arena in Stadtteilbibliothek Lichtenrade": {
+"title": "Yu-Gi-Oh! Duel Arena at Stadtteilbibliothek Lichtenrade",
+"kind": "meetup",
+"audience": "kids",
+"summary": "Learn and play the Yu-Gi-Oh! card game at the Lichtenrade district library. For ages 9 and up, no registration needed.",
+"by": "claude-task",
+"ctx": true
+},
+"Mit-mach-Theater in der Bibliothek Lichtenrade": {
+"title": "Interactive Theatre: Emil rettet das Weihnachtsfest",
+"kind": "theatre",
+"audience": "kids",
+"summary": "Ich & Herr Meyer perform a musical Christmas tale with trolls, a hand puppet and sing-along songs, mainly for nursery and early-school kids.",
+"by": "claude-task",
+"ctx": true
+},
+"Filmabend in der Bibliothek Lichtenrade": {
+"title": "Film Night: Drei Männer im Schnee",
+"kind": "film",
+"audience": "everyone",
+"summary": "Erich Kästner's tale of a millionaire who poses as a poor man at a grand hotel to watch how staff and guests react. Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"Zwischen Romantik und Gegenwart – Malkurs mit Nina Plášková": {
+"title": "Between Romanticism and Today: Painting with Nina Plášková",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Expressive painting inspired by Black Romanticism, incl. making paint from egg and pigments. Materials provided, no experience needed.",
+"by": "claude-task",
+"ctx": true
 }
 }
