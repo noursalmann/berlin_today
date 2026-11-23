@@ -14364,5 +14364,117 @@
 "summary": "Expressive painting inspired by Black Romanticism, incl. making paint from egg and pigments. Materials provided, no experience needed.",
 "by": "claude-task",
 "ctx": true
+},
+"Build Your First Mini App with Claude: A Live, No-Code Workshop [ONLINE]": {
+"title": "Build Your First Mini App with Claude: Live No-Code Workshop (Online)",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Online workshop: Shai builds a mini app live, no code needed, and shows how to share it.",
+"by": "claude-task",
+"ctx": true
+},
+"IDKF at Fullmoon SE": {
+"title": "IDKF at Fullmoon SE",
+"kind": "music",
+"audience": "everyone",
+"summary": "Internationales Digitalkunst Festival concert: a world premiere for viola and live electronics, plus a piece for piano, objects and fixed media.",
+"by": "claude-task",
+"ctx": true
+},
+"Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel": {
+"title": "Suche Zimmer, auch ohne Anmeldung – Theater Schichtwechsel",
+"kind": "theatre",
+"audience": "everyone",
+"summary": "A play about poverty, homelessness and classism: Poverty lies sleepless in a Berlin flatshare hallway, looking back on his life.",
+"by": "claude-task",
+"ctx": true
+},
+"Schöne Seelen": {
+"title": "Schöne Seelen",
+"kind": "film",
+"audience": "everyone",
+"summary": "Feature film by Tom Schreiber: in summer 1996 drifter Freddy takes a job at a Costa Brava disco as a dropout community falls apart.",
+"by": "claude-task",
+"ctx": true
+},
+"Bike the Line - 80 Jahre danach entlang der Demarkationslinie von 1945": {
+"title": "Bike the Line – 80 Years On, Along the 1945 Demarcation Line",
+"kind": "film",
+"audience": "everyone",
+"summary": "Documentary by Robert Tomschke: six fathers cycle from Wismar to Vienna along the 1945 line where the Western Allies met the Red Army.",
+"by": "claude-task",
+"ctx": true
+},
+"Die Abguss-Sammlung lädt zur Führung der Sonderausstellung \"Zeichen – Körper – Macht - Politische Personifikationen im Römischen Reich\"": {
+"title": "Guided Tour of \"Zeichen – Körper – Macht\" at the Abguss-Sammlung",
+"kind": "tour",
+"audience": "everyone",
+"summary": "Lorenz Winkler-Horaček leads a tour of the special exhibition on political personifications in the Roman Empire. Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"Berlin-Friedrichshain (Berlin)": {
+"title": "Clothes Swap Party",
+"kind": "market",
+"audience": "everyone",
+"summary": "Bring clean clothes you no longer wear and pick up to 10 items from others; a free shop follows.",
+"by": "claude-task",
+"ctx": true
+},
+"Privateigentum: Verschuldung an der Gesellschaft. World Café mit Silke van Dyk": {
+"title": "Private Property: A Debt to Society – World Café with Silke van Dyk",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Talk and discussion on private property used as capital – for profit, rent and offloading costs – and growing wealth concentration.",
+"by": "claude-task",
+"ctx": true
+},
+"Nhande rape ysyry – Der Fluss unseres Weges. Nhé’ẽ mit Xadalu Tupã Jekupé und Rodriguo Duarte": {
+"title": "Nhande rape ysyry – The River of Our Path, with Xadalu Tupã Jekupé",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Mbya-Guaraní artist Xadalu Tupã Jekupé and filmmaker Rodrigo Duarte discuss his series YY Arandu, where water is a living archive.",
+"by": "claude-task",
+"ctx": true
+},
+"Swedish Christmas Market – Julbasar 🎄🇸🇪 Social Butterfly Club": {
+"title": "Swedish Christmas Market (Julbasar) Visit – Social Butterfly Club",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Meetup group visit, hosted by Saskia, to the traditional Swedish Christmas Bazaar.",
+"by": "claude-task",
+"ctx": true
+},
+"Togo: Neue Verbindungen knüpfen. Nhé’ẽ mit Adama Ayikoué, Anani Dodji Sanouvi, Kokou Azamede, Tété Azankpo, Gitti Salami und Verena Rodatus": {
+"title": "Togo: Neue Verbindungen knüpfen – Talk with Scholars and Artists",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Scholars and artists from the exhibition on Togo and Germany's shared colonial history talk about their work and perspectives.",
+"by": "claude-task",
+"ctx": true
+},
+"Sip Happens! Saturday Social @ Kodex Bierhaus 🍺": {
+"title": "Sip Happens! Saturday Social at Kodex Bierhaus",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Large social meetup to meet new people over drinks, for newcomers, visitors and locals; most come alone. Wheelchair accessible.",
+"by": "claude-task",
+"ctx": true
+},
+"Wild Wednesday w. \"Eden Cami\" (Indie/Bln)": {
+"title": "Wild Wednesday with Eden Cami (Indie, Berlin)",
+"kind": "music",
+"audience": "everyone",
+"summary": "Indie music night, ages 18 and up.",
+"by": "claude-task",
+"ctx": true
+},
+"Brückentage 2027 in Berlin & Feiertage mit besonderen Events": {
+"title": "Public Holidays and Bridge Days 2027 in Berlin",
+"kind": "notice",
+"audience": "everyone",
+"summary": "Post about Berlin's public holidays and bridge days in 2027.",
+"by": "claude-task",
+"ctx": true
 }
 }
