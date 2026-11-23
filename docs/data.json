@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:55:04.954771+00:00",
+ "generated_at": "2026-11-23T06:45:44.443397+00:00",
  "count": 1115,
  "counts": {
   "events": 1115,
@@ -2579,6 +2579,32 @@
    "id": "1f5b74e86cfab540dba8179099b3914d03ddb532"
   },
   {
+   "title": "Weniger Small-Talk, mehr Kennenlernen. Workshop mit Authentic Relating",
+   "start": "2026-11-23T17:15:00.000Z",
+   "source": "web:Meetup Berlin",
+   "url": "https://www.meetup.com/abenteuer-freundschaft/events/317074803/",
+   "end": null,
+   "venue": "Kieztreff Große Hamburger Str. 28, Berlin Berlin",
+   "area": null,
+   "category": "talk",
+   "is_free": true,
+   "price": null,
+   "price_value": null,
+   "image": null,
+   "description": null,
+   "recurring": false,
+   "recurrence": null,
+   "dates": null,
+   "translated": false,
+   "date_source": "jsonld",
+   "title_orig": null,
+   "kind": "talk",
+   "audience": "everyone",
+   "summary": null,
+   "classified_by": "rules",
+   "id": "e2a42c85e796e445f114e7f9b2529fcd350a244c"
+  },
+  {
    "title": "Bodyweight strength training, Bosepark",
    "start": "2026-11-23T17:30:00+01:00",
    "source": "gib:gratis-in-berlin",
@@ -2611,6 +2637,32 @@
    "summary": "Simple exercises using your own body weight to build muscle, outdoors in the park. Led by Lydia; bring a mat or towel.",
    "classified_by": "claude-task",
    "id": "560ceb17833d37fcd70a17ba0f92fb7e5367c972"
+  },
+  {
+   "title": "Let's Meet and Speak German",
+   "start": "2026-11-23T17:30:00.000Z",
+   "source": "web:Meetup Berlin",
+   "url": "https://www.meetup.com/%EF%B8%8Fberlin-socials/events/317272648/",
+   "end": null,
+   "venue": "KERB Food Hall Potsdamer Str. 2, 10785 Berlin, Berlin Berlin",
+   "area": "Tempelhof-Schöneberg",
+   "category": "meetup",
+   "is_free": true,
+   "price": null,
+   "price_value": null,
+   "image": null,
+   "description": null,
+   "recurring": false,
+   "recurrence": null,
+   "dates": null,
+   "translated": true,
+   "date_source": "jsonld",
+   "title_orig": "Lasst uns treffen und Deutsch sprechen",
+   "kind": "meetup",
+   "audience": "everyone",
+   "summary": "Language café to practise your German, have good conversations and meet new people.",
+   "classified_by": "claude-task",
+   "id": "59a296a580c586d324cf201cf0e36bf76c1955fe"
   },
   {
    "title": "Photo Exhibition: One Ship. One Moment of Safety. – SOS Mediterranee",
@@ -6645,7 +6697,7 @@
    "id": "696e61db6eebc8a8ca388a58d229d1159c2100a5"
   },
   {
-   "title": "Build Your First Mini App with Claude: A Live, No-Code Workshop [ONLINE]",
+   "title": "Build Your First Mini App with Claude: Live No-Code Workshop (Online)",
    "start": "2026-11-24T18:00:00.000Z",
    "source": "web:Meetup Berlin",
    "url": "https://www.meetup.com/the-ai-business-society/events/317273644/",
@@ -6661,14 +6713,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "jsonld",
-   "title_orig": null,
+   "title_orig": "Build Your First Mini App with Claude: A Live, No-Code Workshop [ONLINE]",
    "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "3ff9cf1c39a6866e167925b4bf9dbfcd3a0311df"
+   "summary": "Online workshop: Shai builds a mini app live, no code needed, and shows how to share it.",
+   "classified_by": "claude-task",
+   "id": "b0534f337d4dd1de2524b35235ac736d904ed504"
   },
   {
    "title": "Berlin / Identity / Home",
@@ -10626,7 +10678,7 @@
    "end": null,
    "venue": "Ackerstraße 168 10115",
    "area": "Mitte",
-   "category": "misc",
+   "category": "music",
    "is_free": true,
    "price": "Free — donation welcome",
    "price_value": null,
@@ -10638,10 +10690,10 @@
    "translated": false,
    "date_source": "daypage",
    "title_orig": null,
-   "kind": "misc",
+   "kind": "music",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
+   "summary": "Internationales Digitalkunst Festival concert: a world premiere for viola and live electronics, plus a piece for piano, objects and fixed media.",
+   "classified_by": "claude-task",
    "id": "8cfc54f9013578629751765956eb10c7e8713a87"
   },
   {
@@ -14359,7 +14411,7 @@
    "id": "48ec559ffbe391cdda6ddfddbdc77c0ce1919436"
   },
   {
-   "title": "Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel",
+   "title": "Suche Zimmer, auch ohne Anmeldung – Theater Schichtwechsel",
    "start": "2026-11-26T20:00:00+01:00",
    "source": "cal:Brotfabrik (Bühne · Kino · free gallery, Weißensee)",
    "url": "https://brotfabrik-berlin.de/veranstaltung/suche-ein-zimmer-auch-ohne-anmeldung-vom-schichtwechseltheater/2026-11-26/",
@@ -14375,14 +14427,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
+   "title_orig": "Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel",
    "kind": "theatre",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "6c03003f9316653c2ecac842f4529728db7c46eb"
+   "summary": "A play about poverty, homelessness and classism: Poverty lies sleepless in a Berlin flatshare hallway, looking back on his life.",
+   "classified_by": "claude-task",
+   "id": "c82fa449547eb68cc8b1f4b21aa75d36eecd2e8f"
   },
   {
    "title": "Keller Mic: Stand-up Comedy Open Mic in Prenzlauer Berg",
@@ -14649,7 +14701,7 @@
    "end": "2026-11-26T23:00:00+01:00",
    "venue": "KINO Brotfabrik, Cali­ga­ri­platz 1, Berlin, Berlin, 13086, Germany",
    "area": "Pankow",
-   "category": "misc",
+   "category": "film",
    "is_free": true,
    "price": "Donation",
    "price_value": null,
@@ -14661,10 +14713,10 @@
    "translated": false,
    "date_source": "ical",
    "title_orig": null,
-   "kind": "misc",
+   "kind": "film",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
+   "summary": "Feature film by Tom Schreiber: in summer 1996 drifter Freddy takes a job at a Costa Brava disco as a dropout community falls apart.",
+   "classified_by": "claude-task",
    "id": "f3277c33c0e012e0606690efb908953dfd56fa6a"
   },
   {
@@ -16343,7 +16395,7 @@
    "id": "4c0afdff1842b84ecb8ddbd23763027072240e9e"
   },
   {
-   "title": "Die Abguss-Sammlung lädt zur Führung der Sonderausstellung \"Zeichen – Körper – Macht - Politische Personifikationen im Römischen Reich\"",
+   "title": "Guided Tour of \"Zeichen – Körper – Macht\" at the Abguss-Sammlung",
    "start": "2026-11-27T17:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082251-die-abguss-sammlung-laedt-zur-fuehrung-der-sonderausstellung-zeichen-koerper-macht-politische-personifikationen-im-roemischen-reich",
@@ -16359,14 +16411,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Die Abguss-Sammlung lädt zur Führung der Sonderausstellung \"Zeichen – Körper – Macht - Politische Personifikationen im Römischen Reich\"",
    "kind": "tour",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "857d7d6708c6750514265ebdbed907560773e138"
+   "summary": "Lorenz Winkler-Horaček leads a tour of the special exhibition on political personifications in the Roman Empire. Registration required.",
+   "classified_by": "claude-task",
+   "id": "43f215dbe1f82d676978c84cd8c98fb2e319747f"
   },
   {
    "title": "Vanny's Little Jam Session",
@@ -16825,14 +16877,14 @@
    "id": "7d83b6bfb4a39183423417d3d6cafbfbb9195293"
   },
   {
-   "title": "Bike the Line - 80 years later along the demarcation line of 1945",
+   "title": "Bike the Line – 80 Years On, Along the 1945 Demarcation Line",
    "start": "2026-11-27T19:00:00+01:00",
    "source": "cal:Brotfabrik (Bühne · Kino · free gallery, Weißensee)",
    "url": "https://brotfabrik-berlin.de/veranstaltung/bike-the-line-80-jahre-danach-entlang-der-demarkationslinie-von-1945-2/",
    "end": "2026-11-27T21:00:00+01:00",
    "venue": "KINO Brotfabrik, Cali­ga­ri­platz 1, Berlin, Berlin, 13086, Germany",
    "area": "Pankow",
-   "category": "misc",
+   "category": "film",
    "is_free": true,
    "price": "Donation",
    "price_value": null,
@@ -16844,11 +16896,11 @@
    "translated": true,
    "date_source": "ical",
    "title_orig": "Bike the Line - 80 Jahre danach entlang der Demarkationslinie von 1945",
-   "kind": "misc",
+   "kind": "film",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "2ae0f0755a196dc83d6f328eef1063782211cc48"
+   "summary": "Documentary by Robert Tomschke: six fathers cycle from Wismar to Vienna along the 1945 line where the Western Allies met the Red Army.",
+   "classified_by": "claude-task",
+   "id": "4bb9b10e4521ae218fc501c26e1a4055e01ead3f"
   },
   {
    "title": "Canto Diáspora – Durchlüften Festival 2026 (Indoor)",
@@ -17099,7 +17151,7 @@
    "id": "efe0a6508e62b83bd22d92e7d91e87958d40367f"
   },
   {
-   "title": "Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel",
+   "title": "Suche Zimmer, auch ohne Anmeldung – Theater Schichtwechsel",
    "start": "2026-11-27T20:00:00+01:00",
    "source": "cal:Brotfabrik (Bühne · Kino · free gallery, Weißensee)",
    "url": "https://brotfabrik-berlin.de/veranstaltung/suche-ein-zimmer-auch-ohne-anmeldung-vom-schichtwechseltheater/2026-11-27/",
@@ -17115,14 +17167,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
+   "title_orig": "Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel",
    "kind": "theatre",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "8565543e466f8b9820904810bf6b524e04105637"
+   "summary": "A play about poverty, homelessness and classism: Poverty lies sleepless in a Berlin flatshare hallway, looking back on his life.",
+   "classified_by": "claude-task",
+   "id": "1818cea41cb59bb466402a202589c3c7d05da84a"
   },
   {
    "title": "Nana Benz du Togo",
@@ -17552,7 +17604,7 @@
    "id": "2257fd6c84203601fa21a804a6dffe3d660fdfa4"
   },
   {
-   "title": "Berlin-Friedrichshain (Berlin)",
+   "title": "Clothes Swap Party",
    "start": "2026-11-28T10:00:00+01:00",
    "source": "cal:Kleidertausch",
    "url": "https://kleidertausch.de/event/berlin-friedrichshain-berlin/",
@@ -17568,14 +17620,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
+   "title_orig": "Berlin-Friedrichshain (Berlin)",
    "kind": "market",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "dc9770376986b798cc0df03ebabd06dcf2e59c03"
+   "summary": "Bring clean clothes you no longer wear and pick up to 10 items from others; a free shop follows.",
+   "classified_by": "claude-task",
+   "id": "bf406255b9b9ec817efc3f56da8028f4c88a9b1f"
   },
   {
    "title": "Choir Festival in the Ladenstraße",
@@ -18083,14 +18135,14 @@
    "id": "4aedb21e60a07c5491f7783565fe9932cfafdd5f"
   },
   {
-   "title": "Nhande rape ysyry – Der Fluss unseres Weges. Nhé’ẽ mit Xadalu Tupã Jekupé und Rodriguo Duarte",
+   "title": "Nhande rape ysyry – The River of Our Path, with Xadalu Tupã Jekupé",
    "start": "2026-11-28T11:30:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082253-nhande-rape-ysyry-der-fluss-unseres-weges-nhe-mit-xadalu-tupa-jekupe-und-rodriguo-duarte",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "misc",
+   "category": "talk",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -18099,14 +18151,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "Nhande rape ysyry – Der Fluss unseres Weges. Nhé’ẽ mit Xadalu Tupã Jekupé und Rodriguo Duarte",
+   "kind": "talk",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "08f29e40832f115935fc9cd32cccf7303824a6e4"
+   "summary": "Mbya-Guaraní artist Xadalu Tupã Jekupé and filmmaker Rodrigo Duarte discuss his series YY Arandu, where water is a living archive.",
+   "classified_by": "claude-task",
+   "id": "a0e598ccee3f7c48347b6af2a6727f21fc815b02"
   },
   {
    "title": "Hula Hoop Fitness, Wuhlheide",
@@ -18142,14 +18194,14 @@
    "id": "c5d6fc216c1a64623079463b091ff7231970b609"
   },
   {
-   "title": "Privateigentum: Verschuldung an der Gesellschaft. World Café mit Silke van Dyk",
+   "title": "Private Property: A Debt to Society – World Café with Silke van Dyk",
    "start": "2026-11-28T12:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082254-privateigentum-verschuldung-an-der-gesellschaft-world-cafe-mit-silke-van-dyk",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "meetup",
+   "category": "talk",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -18158,14 +18210,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "meetup",
+   "title_orig": "Privateigentum: Verschuldung an der Gesellschaft. World Café mit Silke van Dyk",
+   "kind": "talk",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "75ff00aa4cef642502b44020a0adb0ab3afc20a2"
+   "summary": "Talk and discussion on private property used as capital – for profit, rent and offloading costs – and growing wealth concentration.",
+   "classified_by": "claude-task",
+   "id": "88bd2e0b407af0b1e75f82cbccad684d01205113"
   },
   {
    "title": "NoonSong: Sacred Choral Music by Reger, Berneker and Reda",
@@ -18380,32 +18432,6 @@
    "summary": "Kids aged 6+ build LEGO robots, make stop-motion films, try electronics, design 3D objects or program games; themes change. No registration needed.",
    "classified_by": "claude-task",
    "id": "f5510db5c297eaaec5c9875801f5c165e10330e2"
-  },
-  {
-   "title": "Swedish Christmas Market – Julbasar 🎄🇸🇪 Social Butterfly Club",
-   "start": "2026-11-28T13:45:00.000Z",
-   "source": "web:Meetup Berlin",
-   "url": "https://www.meetup.com/social-butterfly-radar/events/317451005/",
-   "end": null,
-   "venue": "Landhausstraße 26-28 Landhausstraße 26-28, 10717 Berlin-Bezirk Charlottenburg-Wilmersdorf, Germany, Berlin, BE Berlin",
-   "area": "Charlottenburg-Wilmersdorf",
-   "category": "market",
-   "is_free": true,
-   "price": null,
-   "price_value": null,
-   "image": null,
-   "description": null,
-   "recurring": false,
-   "recurrence": null,
-   "dates": null,
-   "translated": false,
-   "date_source": "jsonld",
-   "title_orig": null,
-   "kind": "market",
-   "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "d7836299aad0fad337e0e394b20a93687d889b1b"
   },
   {
    "title": "Language Café at Frieda Süd (Bauhütte Kreuzberg)",
@@ -19369,14 +19395,14 @@
    "id": "b6ff5f174dd559a7ce265f6a5fbb3b20ed49a788"
   },
   {
-   "title": "Togo: Neue Verbindungen knüpfen. Nhé’ẽ mit Adama Ayikoué, Anani Dodji Sanouvi, Kokou Azamede, Tété Azankpo, Gitti Salami und Verena Rodatus",
+   "title": "Togo: Neue Verbindungen knüpfen – Talk with Scholars and Artists",
    "start": "2026-11-29T11:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082252-togo-neue-verbindungen-knuepfen-nhe-mit-adama-ayikoue-anani-dodji-sanouvi-kokou-azamede-tete-azankpo-gitti-salami-und-verena-rodatus",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "music",
+   "category": "talk",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -19385,14 +19411,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "music",
+   "title_orig": "Togo: Neue Verbindungen knüpfen. Nhé’ẽ mit Adama Ayikoué, Anani Dodji Sanouvi, Kokou Azamede, Tété Azankpo, Gitti Salami und Verena Rodatus",
+   "kind": "talk",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "58ce023850b8cb13e6ca0851b650055c4794292f"
+   "summary": "Scholars and artists from the exhibition on Togo and Germany's shared colonial history talk about their work and perspectives.",
+   "classified_by": "claude-task",
+   "id": "025ae3a152d891e39921a2ec225d32ef12e0e3c5"
   },
   {
    "title": "Laughter Yoga at Stadtbibliothek Lichtenberg",
@@ -23564,7 +23590,7 @@
    "id": "bb92ec217d5a2d2e4d39145b5d444754d62bd92d"
   },
   {
-   "title": "Sip Happens! Saturday Social @ Kodex Bierhaus 🍺",
+   "title": "Sip Happens! Saturday Social at Kodex Bierhaus",
    "start": "2026-12-05T20:00:00+01:00",
    "source": "cal:Sip Happens!",
    "url": "https://www.meetup.com/sip_happens_berlin/events/317537434/",
@@ -23580,14 +23606,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
+   "title_orig": "Sip Happens! Saturday Social @ Kodex Bierhaus 🍺",
    "kind": "meetup",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "bf626a64f877842207c81c3c5a9cd9e36f8d1f92"
+   "summary": "Large social meetup to meet new people over drinks, for newcomers, visitors and locals; most come alone. Wheelchair accessible.",
+   "classified_by": "claude-task",
+   "id": "7be2e5ba09459286e8dab8a9136a01edd2622455"
   },
   {
    "title": "Aber bitte mit Schlager! – Dieter alias The Cock",
@@ -31628,32 +31654,6 @@
    "id": "aedb8ad6eba00476af76b737bcb051e05be58637"
   },
   {
-   "title": "Brückentage 2027 in Berlin & Feiertage mit besonderen Events",
-   "start": "2027-01-06T00:00:00+01:00",
-   "source": "gib:gratis-in-berlin",
-   "url": "https://www.gratis-in-berlin.de/kalender/item/2059556-brueckentage-2027-in-berlin-feiertage-mit-besonderen-events",
-   "end": null,
-   "venue": null,
-   "area": null,
-   "category": "misc",
-   "is_free": true,
-   "price": null,
-   "price_value": null,
-   "image": null,
-   "description": null,
-   "recurring": false,
-   "recurrence": null,
-   "dates": null,
-   "translated": false,
-   "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
-   "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "bd6204189bd86f7da35e7a85e8e9d4e641ba3318"
-  },
-  {
    "title": "Picture-Book Cinema for Children",
    "start": "2027-01-06T10:00:00+01:00",
    "source": "gib:gratis-in-berlin",
@@ -32018,14 +32018,14 @@
    "id": "4c5e1fdd77ac90294bc2c9d41e3eb22546beee69"
   },
   {
-   "title": "Wild Wednesday w. \"Eden Cami\" (Indie/Bln)",
+   "title": "Wild Wednesday with Eden Cami (Indie, Berlin)",
    "start": "2027-01-06T21:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2081730-wild-wednesday-w-eden-cami-indie-bln",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "misc",
+   "category": "music",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -32034,14 +32034,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "Wild Wednesday w. \"Eden Cami\" (Indie/Bln)",
+   "kind": "music",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "0187251c8dd863cb10a60e857ab1c813825586e8"
+   "summary": "Indie music night, ages 18 and up.",
+   "classified_by": "claude-task",
+   "id": "f0707fb2dde6addfb2ee1073227d8ff017bc9012"
   },
   {
    "title": "El Funko + Hiddit!",
