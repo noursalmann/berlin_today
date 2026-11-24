@@ -1,12 +1,5 @@
 [
 {
-"key": "'Beste' Comedy Stand-Up 19 Uhr in der 'Beste' Bar im Wedding direkt am Leopoldplatz",
-"venue": "Willdenowstraße 12a 13353",
-"site_category": "Comedy & Theater",
-"about": "Spende erwünscht Bei unserem Open Mic erwarten euch jede Woche die besten Comedians Berlins, spannende Newcomer und erfahrene Profis, die neues Material ausprobieren. Die Mischung ist jedes Mal anders – aber eins ist sicher: Es wird richtig lustig. Deswegen ist die Show auch immer fast ausverkauft. Sichert euch noch schnell die letzten Plätze.Durch den Abend führt Christoph Krachten, die mit Spontanität, Selbstironie und einem guten Gespür für Situationskomik für eine entspannte Atmosphäre sorgt. Zudem garniert er den Abend mit seinen verrückten Erlebnissen als YouTube-Daddy, als der er einen legendären Ruf genießt.Einlass ab 19:00 Uhr, Showstart ist um 19:30 Uhr.BESTE BarWilldenowstraße 12a",
-"date": "2026-11-23"
-},
-{
 "key": "Spandauer Weihnachtsmarkt",
 "venue": "Marktstraße 10 13597",
 "site_category": "Festivals",
@@ -47,6 +40,13 @@
 "site_category": "Festivals",
 "about": "Die Clubs Freischwimmer und Ipse veranstalten einen gemeinsamen Weihnachtsmarkt am Ufer des Flutgrabens in Kreuzberg an der Grenze zu Treptow. Nebem dem Üblichen gibt es da auch Events wie Feuershows, Live-Malerei und DJ-MusikFreitag von 16 bis 22 Uhr, Samstag und Sonntag von 14 bis 22 Uhr",
 "date": "2026-11-27"
+},
+{
+"key": "BErliN (Ben Berlin) – Aus diesem Tralala kommst du nicht raus",
+"venue": "KINO Brotfabrik, Cali­ga­ri­platz 1, Berlin, Berlin, 13086, Germany",
+"site_category": null,
+"about": "28.11., 19 Uhr D 2015 | 90 min | Dokumentarfilm | R: Sobo Swobodnik Der 85-jährige Ben Wagin ist eines der letzten Berliner Originale, der seit über sechzig Jahren die Stadt mit seiner kontroversen Art prägt. Der Aktionskünstler, Umwelt-Aktivist, Naturphilosoph, Baumpate und »Anarchist« hat in der Hauptstadt wie kein anderer seine Spuren hinterlassen, die nicht nur sein unfassbares Oeuvre, sondern auch die ungeheure Energie und Produktivität dieses klein gewachsenen Mannes zeigen sowie seinen ungebremsten Einfallsreichtum dokumentieren, obgleich ihn die wenigsten heute in Berlin noch kennen. Der Film zeigt in einer Langzeitbeobachtung, als eine künstlerische Annäherung, das Schaffen, Wirken ",
+"date": "2026-11-28"
 },
 {
 "key": "Umwelt-Weihnachtsmarkt Sophienstraße",
@@ -124,5 +124,19 @@
 "site_category": null,
 "about": "Welcome to the Berlin Tech and Creative Industry Afterwork! ✨ Are you tired of stiff networking events, formal agendas, and endless slide decks? So are we",
 "date": "2026-12-15"
+},
+{
+"key": "Cashima & the Big Land Man - Acoustic Rock, Pop, Country",
+"venue": "",
+"site_category": null,
+"about": "",
+"date": "2027-01-07"
+},
+{
+"key": "Open Lab Abend: Routen in die Robotik",
+"venue": "Alexanderufer 2 10117",
+"site_category": "Wissen live",
+"about": "Was sind eigentlich Roboter? Maschinen, die Aufgaben für uns übernehmen? Smarte Helfer*innen im Alltag? Oder Systeme, mit denen wir in Zukunft immer enger zusammenarbeiten? In diesem Open Lab Abend geht ihr diesen Fragen auf den Grund. Ihr entdeckt aktuelle Beispiele aus Forschung und Praxis, erfahrt, warum Menschen Roboter entwickeln, und probiert selbst aus, wie Robotik funktioniert.Gemeinsam werft ihr einen Blick darauf, wo Roboter heute schon eingesetzt werden, welche Probleme sie lösen sollen und welche Ideen Forschende für die Zukunft entwerfen. Dabei geht es nicht nur um Technik, sondern auch um unsere Beziehung zu Maschinen: Was sollen Roboter können? Welche Aufgaben möchten wir ihne",
+"date": "2027-01-07"
 }
 ]
