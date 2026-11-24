@@ -14476,5 +14476,165 @@
 "summary": "Post about Berlin's public holidays and bridge days in 2027.",
 "by": "claude-task",
 "ctx": true
+},
+"Spandauer Weihnachtsmarkt": {
+"title": "Spandau Christmas Market",
+"kind": "market",
+"audience": "everyone",
+"summary": "Christmas market in Spandau's old town, with a stage programme on the market square on some days.",
+"by": "claude-task",
+"ctx": true
+},
+"Weihnachtsmarkt 'Berliner Weihnachtszeit' am Roten Rathaus / Alexanderplatz mit Eisbahn": {
+"title": "Berliner Weihnachtszeit Christmas Market at the Rotes Rathaus",
+"kind": "market",
+"audience": "everyone",
+"summary": "Market between Rotes Rathaus and Marienkirche with Berlin's biggest ice rink, a Ferris wheel, puppeteers, pony rides, old carousels, food and mulled wine.",
+"by": "claude-task",
+"ctx": true
+},
+"Weihnachtsmarkt Schloss Charlottenburg (außer 24.12.)": {
+"title": "Christmas Market at Schloss Charlottenburg",
+"kind": "market",
+"audience": "everyone",
+"summary": "Illuminated Christmas market in front of the palace, with Berlin's largest nativity scene of life-size oak figures and a royal Christmas market for children.",
+"by": "claude-task",
+"ctx": true
+},
+"Ausfall ArtSalon bei KiezKultur": {
+"title": "ArtSalon at KiezKultur Cancelled",
+"kind": "notice",
+"audience": "everyone",
+"summary": "Thursday's ArtSalon is cancelled due to illness.",
+"by": "claude-task",
+"ctx": true
+},
+"Svetlana & Jana Frank - Die Welt ist Aufregend -": {
+"title": "Svetlana & Jana Frank: Die Welt ist Aufregend",
+"kind": "exhibition",
+"audience": "everyone",
+"summary": "Exhibition dedicated to David Hockney, opening Friday from 6pm, with posters, mini prints, cards and other art gifts to buy and take home.",
+"by": "claude-task",
+"ctx": true
+},
+"Weihnachtsmarkt Lohmühleninsel (Freischwimmer & Ipse)": {
+"title": "Lohmühleninsel Christmas Market by Freischwimmer & Ipse",
+"kind": "market",
+"audience": "everyone",
+"summary": "Joint Christmas market by the clubs Freischwimmer and Ipse on the Flutgraben bank in Kreuzberg, with fire shows, live painting and DJ music.",
+"by": "claude-task",
+"ctx": true
+},
+"BErliN (Ben Berlin) – Aus diesem Tralala kommst du nicht raus": {
+"title": "BErliN (Ben Berlin) – Aus diesem Tralala kommst du nicht raus",
+"kind": "film",
+"audience": "everyone",
+"summary": "2015 documentary by Sobo Swobodnik, a long-term portrait of Berlin action artist, environmental activist and tree sponsor Ben Wagin.",
+"by": "claude-task",
+"ctx": true
+},
+"Umwelt-Weihnachtsmarkt Sophienstraße": {
+"title": "Eco Christmas Market on Sophienstraße",
+"kind": "market",
+"audience": "everyone",
+"summary": "Environmental organisations present their work and sell fair-trade eco products and gifts, plus organic bratwurst and crêpes. Every Advent weekend.",
+"by": "claude-task",
+"ctx": true
+},
+"Lichtermarkt am Rathaus Lichtenberg": {
+"title": "Lichtermarkt at Rathaus Lichtenberg",
+"kind": "market",
+"audience": "everyone",
+"summary": "First-Advent market around the town hall, run by the Lichtenberg district office and local associations, with a mixed programme including music.",
+"by": "claude-task",
+"ctx": true
+},
+"Hossdorf 100: Vom physischen zum kognitiven Modell": {
+"title": "Hossdorf 100: From Physical to Cognitive Model",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Online talk by VDI Berlin-Brandenburg on structural engineer Heinz Hossdorf (1925–2006), who designed with models from his own model-building lab.",
+"by": "claude-task",
+"ctx": true
+},
+"Führung Landesarchiv Berlin": {
+"title": "Guided Tour of the Landesarchiv Berlin",
+"kind": "tour",
+"audience": "everyone",
+"summary": "Follow the 'path of a file' through the historic building and archive stores normally closed to the public. Step-free, no seating. Registration requested.",
+"by": "claude-task",
+"ctx": true
+},
+"Kreativ mit Wolle und Stoff: Upcycling-Workshop für Frauen": {
+"title": "Creative with Wool and Fabric: Upcycling Workshop for Women",
+"kind": "workshop",
+"audience": "women",
+"summary": "Turn wool and fabric scraps into small, useful artworks while talking about protecting the environment. For women of all cultures; no experience needed.",
+"by": "claude-task",
+"ctx": true
+},
+"Vorweihnachtliche Begegnungen in Berlin-Dahlem: Berlin Community Chapel lädt zum Adventsbasar ein": {
+"title": "Advent Bazaar at Berlin Community Chapel, Dahlem",
+"kind": "market",
+"audience": "everyone",
+"summary": "",
+"by": "claude-task",
+"ctx": false
+},
+"Kunstadvent in Friedrichshagen am 5. und 6. Dezember 2026": {
+"title": "Kunstadvent: Open Studios in Friedrichshagen",
+"kind": "exhibition",
+"audience": "everyone",
+"summary": "29 Friedrichshagen artists open their doors at 17 venues, showing painting, prints, sculpture, artists' books, ceramics, textile art and photography.",
+"by": "claude-task",
+"ctx": true
+},
+"Kurvenkleber – Haftung. Haltung. Raum. (Mo-Sa 12-20 Uhr)": {
+"title": "Kurvenkleber – Haftung. Haltung. Raum.",
+"kind": "exhibition",
+"audience": "everyone",
+"summary": "",
+"by": "claude-task",
+"ctx": false
+},
+"Live Speaking": {
+"title": "Live Speaking: Talk with Guides in 'Flucht im geteilten Deutschland'",
+"kind": "tour",
+"audience": "everyone",
+"summary": "Guides in the exhibition on fleeing divided Germany, at the former emergency reception camp, share favourite objects and stories before a two-year closure.",
+"by": "claude-task",
+"ctx": true
+},
+"Adventskonzert": {
+"title": "Advent Concert by the Haselhorster Kantorei",
+"kind": "music",
+"audience": "everyone",
+"summary": "Choir and orchestra of the Haselhorster Kantorei with pianist Siyu Li: Mozart's Piano Concerto K. 414, Elgar, Puccini and Advent carols. Donations welcome.",
+"by": "claude-task",
+"ctx": true
+},
+"Berlin Tech & creative industry Afterwork - Year Ending Special with Free Drink": {
+"title": "Berlin Tech & Creative Industry Afterwork: Year-End Special",
+"kind": "meetup",
+"audience": "group",
+"summary": "Relaxed after-work networking for people in tech and the creative industries, without formal agendas or slide decks. Includes a free drink.",
+"by": "claude-task",
+"ctx": true
+},
+"Cashima & the Big Land Man - Acoustic Rock, Pop, Country": {
+"title": "Cashima & the Big Land Man: Acoustic Rock, Pop, Country",
+"kind": "music",
+"audience": "everyone",
+"summary": "",
+"by": "claude-task",
+"ctx": false
+},
+"Open Lab Abend: Routen in die Robotik": {
+"title": "Open Lab Evening: Routes into Robotics",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Learn what robots are, why people build them and where they are used today, with examples from research, and try out how robotics works yourself.",
+"by": "claude-task",
+"ctx": true
 }
 }
