@@ -14574,12 +14574,12 @@
 "ctx": true
 },
 "Vorweihnachtliche Begegnungen in Berlin-Dahlem: Berlin Community Chapel lädt zum Adventsbasar ein": {
-"title": "Advent Bazaar at Berlin Community Chapel, Dahlem",
+"title": "Advent Bazaar at Berlin Community Chapel in Dahlem",
 "kind": "market",
 "audience": "everyone",
-"summary": "",
+"summary": "Berlin Community Chapel and partner churches and a preschool host a bazaar with homemade biscuits, waffles, handmade gifts and a family programme.",
 "by": "claude-task",
-"ctx": false
+"ctx": true
 },
 "Kunstadvent in Friedrichshagen am 5. und 6. Dezember 2026": {
 "title": "Kunstadvent: Open Studios in Friedrichshagen",
@@ -14590,12 +14590,12 @@
 "ctx": true
 },
 "Kurvenkleber – Haftung. Haltung. Raum. (Mo-Sa 12-20 Uhr)": {
-"title": "Kurvenkleber – Haftung. Haltung. Raum.",
+"title": "Kurvenkleber – Haftung. Haltung. Raum. (Football Sticker Exhibition)",
 "kind": "exhibition",
 "audience": "everyone",
-"summary": "",
+"summary": "Exhibition at Neurotitan on football stickers as a mirror of fan culture and society: belonging, rivalry, humour, protest and public space.",
 "by": "claude-task",
-"ctx": false
+"ctx": true
 },
 "Live Speaking": {
 "title": "Live Speaking: Talk with Guides in 'Flucht im geteilten Deutschland'",
@@ -14622,18 +14622,154 @@
 "ctx": true
 },
 "Cashima & the Big Land Man - Acoustic Rock, Pop, Country": {
-"title": "Cashima & the Big Land Man: Acoustic Rock, Pop, Country",
+"title": "Cashima & the Big Land Man – Acoustic Rock, Pop, Country",
 "kind": "music",
 "audience": "everyone",
-"summary": "",
+"summary": "Singer Cashima Wulf and guitarist William Goetz play a spontaneous acoustic set at the Kiezkneipe 1896. Reservation recommended.",
 "by": "claude-task",
-"ctx": false
+"ctx": true
 },
 "Open Lab Abend: Routen in die Robotik": {
 "title": "Open Lab Evening: Routes into Robotics",
 "kind": "workshop",
 "audience": "everyone",
 "summary": "Learn what robots are, why people build them and where they are used today, with examples from research, and try out how robotics works yourself.",
+"by": "claude-task",
+"ctx": true
+},
+"Sprachcafe im Refugio (Berlin)": {
+"title": "Language Café at Refugio",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Weekly language café to practise German, chat and make friends. Open to all levels, no registration; groups of 5+ please email ahead.",
+"by": "claude-task",
+"ctx": true
+},
+"Kneipenquiz! • Quizwoch in der 'Beste' Bar mit gratis Shots nach jeder Runde": {
+"title": "Pub Quiz at 'Beste' Bar with Free Shots After Each Round",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "General-knowledge pub quiz for teams of up to six, with a round of shots after each round and prizes. Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"\"Silent Book Club\" in der Bibliothek": {
+"title": "\"Silent Book Club\" at the Library",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Bring whatever book you are reading, say what it is, then read together in silence for an hour. No set book.",
+"by": "claude-task",
+"ctx": true
+},
+"Musikinstrumente bauen für Kinder": {
+"title": "Building Musical Instruments for Kids",
+"kind": "workshop",
+"audience": "kids",
+"summary": "Children make sound instruments from recycled materials. Costs €5. Registration required.",
+"by": "claude-task",
+"ctx": true
+},
+"Unversöhnliche Erinnerungen": {
+"title": "Unversöhnliche Erinnerungen – Documentary Screening",
+"kind": "film",
+"audience": "everyone",
+"summary": "1979 West German documentary: an International Brigades veteran and an ex-Legion Condor officer explain why they fought in the Spanish Civil War.",
+"by": "claude-task",
+"ctx": true
+},
+"Sunday Silent Reading @ W66 Café": {
+"title": "Sunday Silent Reading @ W66 Café",
+"kind": "meetup",
+"audience": "everyone",
+"summary": "Silent reading meetup hosted by Silent Reading Club & Alexandru N.",
+"by": "claude-task",
+"ctx": true
+},
+"Kunsthandwerklicher Advent am Karl-August-Platz: Taschen aus Badekappen, Jazz-Nikoläuse, ...": {
+"title": "Craft Advent Market at Karl-August-Platz",
+"kind": "market",
+"audience": "everyone",
+"summary": "Stalls around Trinitatiskirche with handmade crafts from Berlin and Brandenburg makers, winemaker's mulled wine and the Jazz-Nikoläuse.",
+"by": "claude-task",
+"ctx": true
+},
+"Abschlussveranstaltung: Getrennte Erfahrungen – Die Jahre 1990–2025": {
+"title": "Closing Event: Separate Experiences – The Years 1990–2025",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Journalist Ulrike Herrmann and ex-state premier Matthias Platzeck discuss differing East–West experiences since reunification. Registration requested.",
+"by": "claude-task",
+"ctx": true
+},
+"Comic-Lesung „Bunny war böse“ mit Lilli Loge": {
+"title": "Comic Reading \"Bunny war böse\" with Lilli Loge",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Lilli Loge presents her comic about three friends working in a dying shopping centre, and what happens when one of them wins the lottery.",
+"by": "claude-task",
+"ctx": true
+},
+"Weihnachtskino \"Geister der Weihnacht\" Ein Film für die ganze Familie": {
+"title": "Christmas Cinema: \"Geister der Weihnacht\" – A Family Film",
+"kind": "film",
+"audience": "everyone",
+"summary": "Free family screening of \"Geister der Weihnacht\" at STZ Ribbeck-Haus/Waschhaus. Step-free access.",
+"by": "claude-task",
+"ctx": true
+},
+"\"Suremad & גּוֹג וּמָגוֹגGog & Magog\" - Konzert im RegenbogenKino": {
+"title": "Suremad & Gog & Magog – Concert at RegenbogenKino",
+"kind": "music",
+"audience": "everyone",
+"summary": "Winter doom night with Brandenburg black/death metal band Suremad and the duo Gog & Magog. Entry by donation.",
+"by": "claude-task",
+"ctx": true
+},
+"Süß & Salzig-Special Stummfilm mit Live Musik \"Die Dirnentragödie\"": {
+"title": "Süß & Salzig Special: Silent Film \"Die Dirnentragödie\" with Live Music",
+"kind": "film",
+"audience": "everyone",
+"summary": "Asta Nielsen in Bruno Rahn's 1927 silent drama, accompanied live on piano by Richard Siedhoff. Free popcorn.",
+"by": "claude-task",
+"ctx": true
+},
+"Europafest in der Bibliothek am Wasserturm": {
+"title": "Europe Festival at Bibliothek am Wasserturm",
+"kind": "festival",
+"audience": "kids",
+"summary": "Children and families explore Europe: songs in several languages, children's readings in French, Ukrainian and Italian, and a European buffet.",
+"by": "claude-task",
+"ctx": true
+},
+"Workshop zum künstlerischen Zeichnen der Anatomie": {
+"title": "Artistic Anatomy Drawing Workshop",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Learn a new way of drawing: sketching the body from the inside, its bones and muscles, as a creative approach.",
+"by": "claude-task",
+"ctx": true
+},
+"AI Series: Microsoft - Ida Momennejad": {
+"title": "AI Series: Microsoft – Ida Momennejad",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Talk by Ida Momennejad, Principal Researcher at Microsoft.",
+"by": "claude-task",
+"ctx": true
+},
+"Workshop zum künstlerischen Zeichnen in Begegnung mit Pflanzen.": {
+"title": "Artistic Drawing Workshop: Encountering Plants",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Draw plants, fruits and leaves as a creative practice of mindful observation. Open to all ages and drawing levels.",
+"by": "claude-task",
+"ctx": true
+},
+"Spuren des Unbewussten – Experimentelle Druckgrafik mit Chryz Allzeit": {
+"title": "Traces of the Unconscious – Experimental Printing with Chryz Allzeit",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Try monotype, material and stencil printing, then develop the prints by drawing. Materials provided; can be held in English on request.",
 "by": "claude-task",
 "ctx": true
 }
