@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T01:59:23.941328+00:00",
- "count": 1130,
+ "generated_at": "2026-11-25T06:46:16.286792+00:00",
+ "count": 1129,
  "counts": {
-  "events": 1130,
+  "events": 1129,
   "recurring": 399,
-  "oneoff": 731,
+  "oneoff": 730,
   "always_free": 16,
   "manual_check": 207
  },
@@ -2997,7 +2997,7 @@
    "id": "a7f963cb39461fb0ccc52b8ca6ffce9fd9905a25"
   },
   {
-   "title": "Sprachcafe im Refugio (Berlin)",
+   "title": "Language Café at Refugio",
    "start": "2026-11-25T16:30:00+00:00",
    "source": "cal:Sprachcafé directory (Berlin)",
    "url": "https://sprachtreffen.de/event/sprachcafe-im-refugio-berlin",
@@ -3013,14 +3013,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
+   "title_orig": "Sprachcafe im Refugio (Berlin)",
    "kind": "meetup",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "a26cec15e9315c3e06e4d5bb589daaa6f6d752cb"
+   "summary": "Weekly language café to practise German, chat and make friends. Open to all levels, no registration; groups of 5+ please email ahead.",
+   "classified_by": "claude-task",
+   "id": "62a4aac8ad403c580698f9deeadfbd9c183b6dd9"
   },
   {
    "title": "Queer Café at Familienzentrum Weißensee",
@@ -4183,7 +4183,7 @@
    "id": "b0223ce78c02bef6fbf073f9216fc8f7355a2543"
   },
   {
-   "title": "Kneipenquiz! • Quizwoch in der 'Beste' Bar mit gratis Shots nach jeder Runde",
+   "title": "Pub Quiz at 'Beste' Bar with Free Shots After Each Round",
    "start": "2026-11-25T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2072323-kiezquiz-in-der-beste-bar",
@@ -4199,14 +4199,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Kneipenquiz! • Quizwoch in der 'Beste' Bar mit gratis Shots nach jeder Runde",
    "kind": "meetup",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "fd878b4400da62cc98381af2b88334ca8ed85699"
+   "summary": "General-knowledge pub quiz for teams of up to six, with a round of shots after each round and prizes. Registration required.",
+   "classified_by": "claude-task",
+   "id": "e046e874791c773beee6a56be8720f1369cb4c5c"
   },
   {
    "title": "'Bilder der Verbrecher': films on Nazi perpetrators, RegenbogenKino",
@@ -8000,14 +8000,14 @@
    "id": "c54c8d13406db6bb5843fb0672ef012e0d826f5f"
   },
   {
-   "title": "\"Silent Book Club\" in der Bibliothek",
+   "title": "\"Silent Book Club\" at the Library",
    "start": "2026-11-26T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082274-silent-book-club-in-der-bibliothek",
    "end": null,
    "venue": "Badstraße 39 13357",
    "area": "Mitte",
-   "category": "misc",
+   "category": "meetup",
    "is_free": true,
    "price": "Free — donation welcome",
    "price_value": null,
@@ -8016,14 +8016,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "\"Silent Book Club\" in der Bibliothek",
+   "kind": "meetup",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "411f1e9de6d31aa68d710af52b65aa567986ea8a"
+   "summary": "Bring whatever book you are reading, say what it is, then read together in silence for an hour. No set book.",
+   "classified_by": "claude-task",
+   "id": "0cf9721c276b2a852998be4949f88817d033694d"
   },
   {
    "title": "Opening: Face it & own it!",
@@ -13725,7 +13725,7 @@
    "end": "2026-11-29T11:30:00+00:00",
    "venue": "W66, Leipziger Str. 16, 10117 Berlin, Germany",
    "area": "Mitte",
-   "category": "talk",
+   "category": "meetup",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -13737,10 +13737,10 @@
    "translated": false,
    "date_source": "ical",
    "title_orig": null,
-   "kind": "talk",
+   "kind": "meetup",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
+   "summary": "Silent reading meetup hosted by Silent Reading Club & Alexandru N.",
+   "classified_by": "claude-task",
    "id": "75f732d0ed35d79b7a76cca9df875cad4ea67ab8"
   },
   {
@@ -13803,14 +13803,14 @@
    "id": "b6ff5f174dd559a7ce265f6a5fbb3b20ed49a788"
   },
   {
-   "title": "Kunsthandwerklicher Advent am Karl-August-Platz: Taschen aus Badekappen, Jazz-Nikoläuse, ...",
+   "title": "Craft Advent Market at Karl-August-Platz",
    "start": "2026-11-29T11:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082271-kunsthandwerklicher-advent-am-karl-august-platz-taschen-aus-badekappen-jazz-nikolaeuse",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "music",
+   "category": "market",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -13819,14 +13819,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "music",
+   "title_orig": "Kunsthandwerklicher Advent am Karl-August-Platz: Taschen aus Badekappen, Jazz-Nikoläuse, ...",
+   "kind": "market",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "b655d7e2acf1216e074b417680e71638d3771bf6"
+   "summary": "Stalls around Trinitatiskirche with handmade crafts from Berlin and Brandenburg makers, winemaker's mulled wine and the Jazz-Nikoläuse.",
+   "classified_by": "claude-task",
+   "id": "25c4d4802a91b17fdf6482dd2ce7b685e6c4b685"
   },
   {
    "title": "Togo: Neue Verbindungen knüpfen – Talk with Scholars and Artists",
@@ -14270,14 +14270,14 @@
    "id": "5526cf7e105a8a18531c13f2cb9f44b398f228ad"
   },
   {
-   "title": "Musikinstrumente bauen für Kinder",
+   "title": "Building Musical Instruments for Kids",
    "start": "2026-11-29T13:00:00+01:00",
    "source": "cal:Brotfabrik (Bühne · Kino · free gallery, Weißensee)",
    "url": "https://brotfabrik-berlin.de/veranstaltung/musikinstrumente-bauen-fuer-kinder-4/2026-11-29/",
    "end": "2026-11-29T15:00:00+01:00",
    "venue": "ATELIER Brotfabrik, Caligariplatz 1, Berlin, Berlin, 13086, Germany",
    "area": "Pankow",
-   "category": "music",
+   "category": "workshop",
    "is_free": false,
    "price": "€5",
    "price_value": 5.0,
@@ -14286,14 +14286,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
-   "kind": "music",
+   "title_orig": "Musikinstrumente bauen für Kinder",
+   "kind": "workshop",
    "audience": "kids",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "aa1f9eae066a47ddc290009003586ac579309e22"
+   "summary": "Children make sound instruments from recycled materials. Costs €5. Registration required.",
+   "classified_by": "claude-task",
+   "id": "b7e0c493b46d856425451ab5b3c732f6e7e4230b"
   },
   {
    "title": "Lichtermarkt at Rathaus Lichtenberg",
@@ -14990,14 +14990,14 @@
    "id": "0ee642fb690e361c27f3429759132335506ea9d0"
   },
   {
-   "title": "Unversöhnliche Erinnerungen",
+   "title": "Unversöhnliche Erinnerungen – Documentary Screening",
    "start": "2026-11-29T18:30:00+01:00",
    "source": "cal:Brotfabrik (Bühne · Kino · free gallery, Weißensee)",
    "url": "https://brotfabrik-berlin.de/veranstaltung/unversoehnliche-erinnerungen/",
    "end": "2026-11-29T20:30:00+01:00",
    "venue": "KINO Brotfabrik, Cali­ga­ri­platz 1, Berlin, Berlin, 13086, Germany",
    "area": "Pankow",
-   "category": "misc",
+   "category": "film",
    "is_free": true,
    "price": "Donation",
    "price_value": null,
@@ -15006,14 +15006,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "Unversöhnliche Erinnerungen",
+   "kind": "film",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "91e307ec83a434fe6212ddd373cc6f55e3e8a454"
+   "summary": "1979 West German documentary: an International Brigades veteran and an ex-Legion Condor officer explain why they fought in the Spanish Civil War.",
+   "classified_by": "claude-task",
+   "id": "5f32d72e987f7602550a41e8134b6286980b169e"
   },
   {
    "title": "SKOA Comedy Stand-Up Show at Kneipe 1896",
@@ -20480,14 +20480,14 @@
    "id": "c762eb308fa80a2bd0444019729b22218371fd5a"
   },
   {
-   "title": "Abschlussveranstaltung: Getrennte Erfahrungen – Die Jahre 1990–2025",
+   "title": "Closing Event: Separate Experiences – The Years 1990–2025",
    "start": "2026-12-02T18:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082269-abschlussveranstaltung-getrennte-erfahrungen-die-jahre-1990-2025",
    "end": null,
    "venue": "Mittelstraße 51",
    "area": null,
-   "category": "misc",
+   "category": "talk",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -20496,14 +20496,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "Abschlussveranstaltung: Getrennte Erfahrungen – Die Jahre 1990–2025",
+   "kind": "talk",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "353eccae2ab0a784c22e21b305c76918a7de7aa2"
+   "summary": "Journalist Ulrike Herrmann and ex-state premier Matthias Platzeck discuss differing East–West experiences since reunification. Registration requested.",
+   "classified_by": "claude-task",
+   "id": "364532ac29daf739b4220c67a05170395b5aa85a"
   },
   {
    "title": "Andersens Koffertheater: “Des Kaisers neue Kleider”",
@@ -21156,7 +21156,7 @@
    "id": "98762a09b44a7d34701c39617994febd220e4c22"
   },
   {
-   "title": "Comic-Lesung „Bunny war böse“ mit Lilli Loge",
+   "title": "Comic Reading \"Bunny war böse\" with Lilli Loge",
    "start": "2026-12-03T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082272-comic-lesung-bunny-war-boese-mit-lilli-loge",
@@ -21172,14 +21172,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Comic-Lesung „Bunny war böse“ mit Lilli Loge",
    "kind": "talk",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "353c17700b30b3a369500a4c5b7c6b49965a7e4c"
+   "summary": "Lilli Loge presents her comic about three friends working in a dying shopping centre, and what happens when one of them wins the lottery.",
+   "classified_by": "claude-task",
+   "id": "e8673ae4688e39e74c9fafeeda02f32f192d2a02"
   },
   {
    "title": "Pub Quiz: Who Owns Neukölln?",
@@ -21910,7 +21910,7 @@
    "id": "738ee5291ab4286db08e07394eb1916a107b4696"
   },
   {
-   "title": "Weihnachtskino \"Geister der Weihnacht\" Ein Film für die ganze Familie",
+   "title": "Christmas Cinema: \"Geister der Weihnacht\" – A Family Film",
    "start": "2026-12-04T17:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082267-weihnachtskino-geister-der-weihnacht-ein-film-fuer-die-ganze-familie",
@@ -21926,14 +21926,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Weihnachtskino \"Geister der Weihnacht\" Ein Film für die ganze Familie",
    "kind": "film",
-   "audience": "kids",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "e232afabd058eee1376c67de1ecba90793870254"
+   "audience": "everyone",
+   "summary": "Free family screening of \"Geister der Weihnacht\" at STZ Ribbeck-Haus/Waschhaus. Step-free access.",
+   "classified_by": "claude-task",
+   "id": "4573fd9d984a0c586d4eee8f9629db8dce9c4f0a"
   },
   {
    "title": "Creative with Wool and Fabric: Upcycling Workshop for Women",
@@ -22430,7 +22430,7 @@
    "id": "f160261b614ad9d3b56ef4365402451a2eb4e653"
   },
   {
-   "title": "Advent Bazaar at Berlin Community Chapel, Dahlem",
+   "title": "Advent Bazaar at Berlin Community Chapel in Dahlem",
    "start": "2026-12-05T12:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082264-vorweihnachtliche-begegnungen-in-berlin-dahlem-berlin-community-chapel-laedt-zum-adventsbasar-ein",
@@ -22451,9 +22451,9 @@
    "title_orig": "Vorweihnachtliche Begegnungen in Berlin-Dahlem: Berlin Community Chapel lädt zum Adventsbasar ein",
    "kind": "market",
    "audience": "everyone",
-   "summary": "",
+   "summary": "Berlin Community Chapel and partner churches and a preschool host a bazaar with homemade biscuits, waffles, handmade gifts and a family programme.",
    "classified_by": "claude-task",
-   "id": "e263c255db25df85e9cec71d3229aaf8c3b0dcce"
+   "id": "c9eda759be8106c4909cb3c8e0b8a3aec8e71d80"
   },
   {
    "title": "Light and Shadow – Drawing Atmospheres with Chryz Allzeit",
@@ -22924,7 +22924,7 @@
    "id": "19ddf819a9e4ce7e7a812db36c93baa87eeafa24"
   },
   {
-   "title": "\"Suremad & גּוֹג וּמָגוֹגGog & Magog\" - Konzert im RegenbogenKino",
+   "title": "Suremad & Gog & Magog – Concert at RegenbogenKino",
    "start": "2026-12-05T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082268-suremad-gog-magog-konzert-im-regenbogenkino",
@@ -22940,14 +22940,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "\"Suremad & גּוֹג וּמָגוֹגGog & Magog\" - Konzert im RegenbogenKino",
    "kind": "music",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "1cd09b9f1ef6a6430396b25af1ce8412d3947a01"
+   "summary": "Winter doom night with Brandenburg black/death metal band Suremad and the duo Gog & Magog. Entry by donation.",
+   "classified_by": "claude-task",
+   "id": "d1d5d1058555639bc51b30da4926ff4f372bfa92"
   },
   {
    "title": "Joachim Gies: “Die Innenräume der Klänge” (Saxophone Solo)",
@@ -25112,14 +25112,14 @@
    "id": "e24646669f7bf22676056b040360de3be98cc8b4"
   },
   {
-   "title": "Europafest in der Bibliothek am Wasserturm",
+   "title": "Europe Festival at Bibliothek am Wasserturm",
    "start": "2026-12-10T00:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082266-europafest-in-der-bibliothek-am-wasserturm",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "misc",
+   "category": "festival",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -25128,14 +25128,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
-   "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "64aa07cbcc1a76d3112e558bf0728992eb135b82"
+   "title_orig": "Europafest in der Bibliothek am Wasserturm",
+   "kind": "festival",
+   "audience": "kids",
+   "summary": "Children and families explore Europe: songs in several languages, children's readings in French, Ukrainian and Italian, and a European buffet.",
+   "classified_by": "claude-task",
+   "id": "5bab9ca17a3872edb4926b471ef56dbb55880443"
   },
   {
    "title": "Prevention in Focus: Political Education Against Extremism",
@@ -25454,14 +25454,14 @@
    "id": "352ebec8cbe648365b134ffd9bc8d4a4eb48f8e4"
   },
   {
-   "title": "Süß & Salzig-Special Stummfilm mit Live Musik \"Die Dirnentragödie\"",
+   "title": "Süß & Salzig Special: Silent Film \"Die Dirnentragödie\" with Live Music",
    "start": "2026-12-10T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082273-suess-salzig-special-stummfilm-mit-live-musik-die-dirnentragoedie",
    "end": null,
    "venue": "Badstraße 39 13357",
    "area": "Mitte",
-   "category": "music",
+   "category": "film",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -25470,14 +25470,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "music",
+   "title_orig": "Süß & Salzig-Special Stummfilm mit Live Musik \"Die Dirnentragödie\"",
+   "kind": "film",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "2d393f216d6287fe3acb5765c8fbf837876c7027"
+   "summary": "Asta Nielsen in Bruno Rahn's 1927 silent drama, accompanied live on piano by Richard Siedhoff. Free popcorn.",
+   "classified_by": "claude-task",
+   "id": "0c91016aaf360b4471dae8625fec4612a91f94e1"
   },
   {
    "title": "Comedy Universum: comedy show and game show",
@@ -25714,7 +25714,7 @@
    "id": "24973b724f0cc9296b7a3e3b7874d08f294bd7d9"
   },
   {
-   "title": "Workshop zum künstlerischen Zeichnen der Anatomie",
+   "title": "Artistic Anatomy Drawing Workshop",
    "start": "2026-12-11T16:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082276-workshop-zum-kuenstlerischen-zeichnen-der-anatomie",
@@ -25730,14 +25730,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Workshop zum künstlerischen Zeichnen der Anatomie",
    "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "5a5e36555a762d84fa7f1d729b227d15b9ec13eb"
+   "summary": "Learn a new way of drawing: sketching the body from the inside, its bones and muscles, as a creative approach.",
+   "classified_by": "claude-task",
+   "id": "edff362930f28f76ddc6c123a62284b9d6ab02ec"
   },
   {
    "title": "Artist Talk and Short Tour with Karolina Gembara",
@@ -25792,7 +25792,7 @@
    "id": "ce0b457c0abfb75a6cf6d42003a4fc2e3746989d"
   },
   {
-   "title": "Kurvenkleber – Haftung. Haltung. Raum.",
+   "title": "Kurvenkleber – Haftung. Haltung. Raum. (Football Sticker Exhibition)",
    "start": "2026-12-11T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082258-kurvenkleber-haftung-haltung-raum-mo-sa-12-20-uhr",
@@ -25813,9 +25813,9 @@
    "title_orig": "Kurvenkleber – Haftung. Haltung. Raum. (Mo-Sa 12-20 Uhr)",
    "kind": "exhibition",
    "audience": "everyone",
-   "summary": "",
+   "summary": "Exhibition at Neurotitan on football stickers as a mirror of fan culture and society: belonging, rivalry, humour, protest and public space.",
    "classified_by": "claude-task",
-   "id": "e02c5fe54ad02e32f29898257e31c3c7df3ee1e9"
+   "id": "7abc7816fafb4b318fbfd97fc846a89ba02155c6"
   },
   {
    "title": "Live Rock Karaoke at Little Stage with the Band BarFly",
@@ -27456,32 +27456,6 @@
    "id": "669d928db156ef32234b59a1c8e83a9e84ee7d55"
   },
   {
-   "title": "AI Series: Microsoft - Ida Momennejad",
-   "start": "2026-12-15T18:00:00.000Z",
-   "source": "web:Meetup Berlin",
-   "url": "https://www.meetup.com/bliss-speaker-series/events/316827574/",
-   "end": null,
-   "venue": "C130, Institut für Chemie, Technische Universität Berlin Chemiegebäude, Str. des 17. Juni 115, 10623 Berlin, Berlin Berlin",
-   "area": "Charlottenburg-Wilmersdorf",
-   "category": "misc",
-   "is_free": true,
-   "price": null,
-   "price_value": null,
-   "image": null,
-   "description": null,
-   "recurring": false,
-   "recurrence": null,
-   "dates": null,
-   "translated": false,
-   "date_source": "jsonld",
-   "title_orig": null,
-   "kind": "misc",
-   "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "e6808cf4cccdc253f6eb8711799e10369eac16a2"
-  },
-  {
    "title": "Conversation and Literature Café",
    "start": "2026-12-15T18:30:00+01:00",
    "source": "gib:gratis-in-berlin",
@@ -28470,7 +28444,7 @@
    "id": "32297cbd3326638fe5e60e7f456ab02cb024d37e"
   },
   {
-   "title": "Workshop zum künstlerischen Zeichnen in Begegnung mit Pflanzen.",
+   "title": "Artistic Drawing Workshop: Encountering Plants",
    "start": "2026-12-18T16:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082277-workshop-zum-kuenstlerischen-zeichnen-in-begegnung-mit-pflanzen",
@@ -28486,14 +28460,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Workshop zum künstlerischen Zeichnen in Begegnung mit Pflanzen.",
    "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "468a35e75ee8dfb996a8b090fa068eb602ff16c7"
+   "summary": "Draw plants, fruits and leaves as a creative practice of mindful observation. Open to all ages and drawing levels.",
+   "classified_by": "claude-task",
+   "id": "79a0ba064799bf05f01547f5f561cbb50529105c"
   },
   {
    "title": "Interactive Theatre: Emil rettet das Weihnachtsfest",
@@ -32162,7 +32136,7 @@
    "id": "d2e3c7bdebd6159538c951b2b8abea332df384f3"
   },
   {
-   "title": "Cashima & the Big Land Man: Acoustic Rock, Pop, Country",
+   "title": "Cashima & the Big Land Man – Acoustic Rock, Pop, Country",
    "start": "2027-01-07T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2078678-cashima-the-big-land-man-acoustic-rock-pop",
@@ -32183,7 +32157,7 @@
    "title_orig": "Cashima & the Big Land Man - Acoustic Rock, Pop, Country",
    "kind": "music",
    "audience": "everyone",
-   "summary": "",
+   "summary": "Singer Cashima Wulf and guitarist William Goetz play a spontaneous acoustic set at the Kiezkneipe 1896. Reservation recommended.",
    "classified_by": "claude-task",
    "id": "7c4552458656a4c2dd9a46fad8f7d2825f3afb8c"
   },
@@ -32318,7 +32292,7 @@
    "id": "384a3325608c3b3adffe2d29649369744a29b280"
   },
   {
-   "title": "Spuren des Unbewussten – Experimentelle Druckgrafik mit Chryz Allzeit",
+   "title": "Traces of the Unconscious – Experimental Printing with Chryz Allzeit",
    "start": "2027-01-08T16:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2081379-spuren-des-unbewussten-experimentelle-druckgrafik-mit-chryz-allzeit",
@@ -32334,14 +32308,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Spuren des Unbewussten – Experimentelle Druckgrafik mit Chryz Allzeit",
    "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "3a65aec73ebecbd2c3cd864be1dcf97e543e5a57"
+   "summary": "Try monotype, material and stencil printing, then develop the prints by drawing. Materials provided; can be held in English on request.",
+   "classified_by": "claude-task",
+   "id": "f98bb3ed4860c9dc8eee53e0f7ae815ee6c5098d"
   },
   {
    "title": "Games Night: Blood on the Clocktower in Schöneberg",
