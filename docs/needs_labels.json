@@ -1,19 +1,5 @@
 [
 {
-"key": "Feierabendmusik (20er, 30er, 40er, 50er Jahre) im Stadtteiltreff Kissingenviertel",
-"venue": "Lauterbachstr. 3b 13189",
-"site_category": "Musik",
-"about": "Dieses Projekt finanziert sich ausschließlich über Spenden und nur durch sie sind auch der Fortbestand und die Qualität der Darbietungen gewährleistet. Mark und die Pfennige erinnern an eine Zeit, in der ein Groschen für Musik eine gute Investition war. In Zeiten der Not, während der Weltwirtschaftskrise in den 20'ger Jahren, der Verfolgung von Randgruppen und Andersdenkenden in den 30'gern, der Schrecken des 2. Weltkriegs in den 40'ger Jahren und der darauf folgenden Leiden bis in die 50'ger Jahre des 20'ten Jahrhunderts - Musik hat immer wieder geholfen, sich dem Leben zuzuwenden und leichter beschwingt in die Zukunft zu gehen.",
-"date": "2026-11-25"
-},
-{
-"key": "Free Webinar: Why Your CV Gets Rejected. Hiring Manager’s Perspective",
-"venue": "",
-"site_category": null,
-"about": "The German IT job market can be competitive, and being well-qualified doesn't always guarantee an interview. ​What do recruiters and hiring managers look",
-"date": "2026-11-25"
-},
-{
 "key": "Weihnachtsmarkt in Wedding - Adventssonntage + Sa. vor Weihnachten: Kunst, Handwerk, Streetfood & Musik",
 "venue": "",
 "site_category": "Kleinkunst",
@@ -26,6 +12,41 @@
 "site_category": "Kinder & Jugendliche",
 "about": "An allen Adventssonntagen und Samstag vor Weihnachten, wird der Weddingmarkt im winterlichen Glanz erstrahlen – jeweils von 11-19 Uhr – mitten im Stadtteil Wedding auf dem Leopoldplatz, vor der historischen Schinkel-Kirche (Alte Nazarethkirche).Sonntage: 29 Nov., 06, 13. und 19. (Samstag) und 20. DezemberGlühwein und Lagerfeuer mit kostenloser „Stockbrot-Station“ für die kleinen Besucher laden zur weihnachtlichen Atmosphäre ein. Das Ganze wird begleitet durch ein künstlerisches Nebenprogramm, das Musik, Chorgesänge und viele weitere Überraschungen umspannt.15-19 Uhr gibt es kostenloses Stockbrot- so lange der Vorrat reichtDer Eintritt zum Markt ist wie immer frei.",
 "date": "2026-11-29"
+},
+{
+"key": "Weihnachten im Hexenwald",
+"venue": "BÜHNE Brotfabrik, Cali­ga­ri­platz 1, Berlin, Berlin, 13086",
+"site_category": null,
+"about": "30.11. – 3.12. | 10 Uhr | 3 – 8 Jahre / Dauer ca. 40 Min. Von Beatrice Ellinger Der Weihnachtsmann ist viel zu spät dran, um die Geschenke rechtzeitig zu den Kindern zu bringen. Also entschließt er sich die Abkürzung durch den Hexenwald zu nehmen. Dort ist es unheimlich, denn hier leben Hexen, Feen und Zauberer. Und Trolle, die dem Weihnachtsmann die Geschenke klauen. Aber die Waldbewohner halten zusammen und helfen dem Weihnachtsmann.",
+"date": "2026-11-30"
+},
+{
+"key": "AugusteART: Workshop \"Japanische Kalligraphie (Shodo)\"",
+"venue": "",
+"site_category": "Kunst",
+"about": "Di, 1.12., 8.12. und 15.12., 17–19 UhrJapanische Kalligraphie (Shodo)Einführung in die Schriftgestaltung mit Ichi Go Wussten Sie, dass die japanische Sprache drei verschiedene Schriftsysteme verwendet? In der japanischen Grundschule lernen Kinder zuerst Hiragana, dann Katakana und nach und nach die komplexeren Kanji. Waehrend Hiragana und Katakana vor allem Laute darstellen, tragen Kanji eine tiefe Bedeutung in jedem Zeichen. Japanische Kalligrafie (Shodo) ist weit mehr als nur schönes Design. Es geht um die richtige Haltung, die exakte Fuehrung des Pinsels vom ersten bis zum letzten Strich und die Achtsamkeit im Moment. So fordert das Schreiben durchgehende Konzentration und bietet gleichze",
+"date": "2026-12-01"
+},
+{
+"key": "Emil rettet das Weihnachtsfest in der Bibliothek Schöneberg",
+"venue": "Hauptstr. 40 10827",
+"site_category": "Kinder & Jugendliche",
+"about": "Am 01. Dezember sind Ich & Herr Meyer mit dem musikalischen Mit-Mach-Weihnachtsmärchen \"Emil rettet das Weihnachtsfest\" zu Gast bei uns in der Bibliothek. Die festliche, humorvolle, musikalisch begleitete Weihnachtsgeschichte ist vorrangig für Kita-Kids, Erst -und Zweitklässler_innen und alle anderen, die sich vom Weihnachtszauber noch einfangen lassen. Eine kurzweilige und spannende Geschichte mit faulen Trolls, einer mutigen Handpuppe, Licht und Knalleffekten und jeder Menge eigener Weihnachtslieder zum Mitsingen, Tanzen und sich einfach schon mal so richtig auf Weihnachten freuen!Kostenlos & ohne Anmeldung. Ab 3 Jahren.",
+"date": "2026-12-01"
+},
+{
+"key": "AugusteART: Fotoworkshop \"Wir werden sehen\"",
+"venue": "Scharnweberstr. 34a 13405",
+"site_category": "Kunst",
+"about": "Mi, 2.12., 9.12. sowie 3.2. und 10.2.2027, 15–18 UhrWir werden sehenFotografieworkshop mit Juli SchmidtWas ist ein Bild? Gibt es das gute Bild? Und welche Bedeutung hat das Medium Fotografie im Alltag?, sind Fragen, mit denen wir in die Fotografie einsteigen. Anhand eines Themas aus den Feldern der Portrait-, Selbstportrait-, Stadt-, und Landschaftsfotografie werden wir Fotoserien erstellen. Was interessiert uns? Wie lassen sich die Themen fotografisch darstellen? Wie können wir eine fotografische Sprache entwickeln? Und wie entsteht eine fotografische Serie? Bitte Kamera/Smartphone sowie Tablett oder Laptop mitbringen, wenn vorhanden.Juli Schmidt ist professionelle Fotografin und bildende K",
+"date": "2026-12-02"
+},
+{
+"key": "Aids-Kino in der Bibliothek Schöneberg",
+"venue": "Hauptstr. 40 10827",
+"site_category": "Kino",
+"about": "Freier Eintritt, ohne Anmeldung. Es gibt Popcorn & gute Gespräche. Anlässlich des Welt-Aids-Tages 2026 zeigt die Bibliothek Schöneberg in Kooperation mit Berliner Aids-Hilfe e.V. den Dokumentarfilm \"Die Uneinsichtigen - Aids-Aktivismus in Frankfurt\" von Lou Deinhart, Evi Rohde & Zoë Struif im Makerspace im Erdgeschoss.Der Film hat eine Spielzeit von 53 Minuten (dt. OmeU).Theaterinszenierungen aus der Zeit der HIV/AIDS-Pandemie der 80er/90er-Jahre, Nachrichtenbilder und Aufnahmen von Demonstrationen kommen in der Recherchearbeit zum AIDS-Aktivismus der drei Regisseur_innen zusammen. Lou Deinhart, Evi Rohde und Zoë Struif bewegen sich zwischen Begegnungen heute und den medialen Spuren der Zeit",
+"date": "2026-12-02"
 },
 {
 "key": "Lesung: Eine bäuerliche Jugend in Berlin",
@@ -75,5 +96,19 @@
 "site_category": "Musik",
 "about": "Eintritt frei; 13:00-13:30 Uhr Am 14. Dezember um 13:00 Uhr spielt ein internationales Ensemble das Klarinettenquintett von W.A. Mozart in der Besetzung: Sandra Fajardo Nossa (Kolumbien, Klarinette), Tzu-Fan Tan (Großbritannien, Violine), Blanche Darr (USA, Violine), Mia Dugandzic-Maric (Kroatien, Viola) und Peter Lange (Auswärtiges Amt, Deutschland, Violoncello).",
 "date": "2026-12-14"
+},
+{
+"key": "JuBi - Die JugendBildungsmesse in Berlin",
+"venue": "Wilhelmstraße 140 10963",
+"site_category": "Kinder & Jugendliche",
+"about": "Die JugendBildungsmesse JuBi ist bundesweit die größte Spezial-Messe zum Thema Bildung im Ausland. Austauschorganisationen, Veranstaltende und Agenturen aus dem gesamten Bundesgebiet informieren auf der JuBi-Tour über alle Facetten von Auslandsaufenthalten und stellen ihre Programme und Stipendienangebote vor. Die Beratung zu Themen wie Schüleraustausch, High School-Aufenthalte, Sprachreisen, Au-Pair, Work & Travel, Freiwilligendienste sowie Praktika im Ausland erfolgt persönlich an den Ständen der Aussteller*innen durch Bildungsexpert*innen und ehemalige Programmteilnehmer*innen.Der Eintritt ist frei.Weitere Infos und Ausstellerliste: https://weltweiser.de/jubi-messe-berlin/",
+"date": "2027-01-09"
+},
+{
+"key": "Ground Control to Friedrichshain: Bowie-Vinyl-Party zum 80. Geburtstag",
+"venue": "Scharnweberstraße 54 10247",
+"site_category": "Partys",
+"about": "Ground Control to Friedrichshain: Bowie-Vinyl-Party zum 80. GeburtstagAm 8. Januar 2027 wäre David Bowie 80 Jahre alt geworden. Einen Abend später feiern DJane Mrs. Stardust und DJ Sway den Ausnahmekünstler mit einer Bowie-Vinyl-Party im The Other Room bei Gibneys Berlin in Friedrichshain. Los geht es am Samstag, 9. Januar 2027, um 18 Uhr. Der Eintritt ist frei.Im Gepäck: mehr als 300 Schallplatten. Von Liza Jane bis Lazarus, von Bewlay Brothers zu Blackstar und weiter zu Bowies Produktionen und Kollaborationen mit Künstlern wie Arcade Fire, Placebo, Iggy Pop und Lou Reed. Klassiker treffen auf Raritäten, bekannte Singles auf überraschende B-Seiten – ausschließlich von Vinyl, 100 % Bowie.Auc",
+"date": "2027-01-09"
 }
 ]
