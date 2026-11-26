@@ -14772,5 +14772,133 @@
 "summary": "Try monotype, material and stencil printing, then develop the prints by drawing. Materials provided; can be held in English on request.",
 "by": "claude-task",
 "ctx": true
+},
+"Weihnachtsmarkt in Wedding - Adventssonntage + Sa. vor Weihnachten: Kunst, Handwerk, Streetfood & Musik": {
+"title": "Christmas Market in Wedding: Art, Crafts, Street Food & Music",
+"kind": "market",
+"audience": "everyone",
+"summary": "Outdoor market on Leopoldplatz with handmade art, design and street food, plus a campfire and side programme. Open 11–19, free entry.",
+"by": "claude-task",
+"ctx": true
+},
+"Lagerfeuer und kostenloses Stockbrot für Kinder (Adventssontage & Sa 20.12.)": {
+"title": "Campfire and Free Stick Bread for Kids",
+"kind": "market",
+"audience": "kids",
+"summary": "Free stick bread over the campfire for children at the Wedding Christmas market on Leopoldplatz, 15–19 while stocks last. With music and choirs.",
+"by": "claude-task",
+"ctx": true
+},
+"Weihnachten im Hexenwald": {
+"title": "Christmas in the Witches' Forest",
+"kind": "theatre",
+"audience": "kids",
+"summary": "Children's play by Beatrice Ellinger for ages 3–8 (about 40 min): Santa takes a shortcut through a forest of witches, fairies and present-stealing trolls.",
+"by": "claude-task",
+"ctx": true
+},
+"AugusteART: Workshop \"Japanische Kalligraphie (Shodo)\"": {
+"title": "AugusteART: Japanese Calligraphy (Shodo) Workshop",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Introduction to Japanese calligraphy (Shodo) with Ichi Go: brush technique, posture and concentration, and Japan's three writing systems.",
+"by": "claude-task",
+"ctx": true
+},
+"Emil rettet das Weihnachtsfest in der Bibliothek Schöneberg": {
+"title": "Emil Saves Christmas at Bibliothek Schöneberg",
+"kind": "theatre",
+"audience": "kids",
+"summary": "Musical sing-along Christmas tale by Ich & Herr Meyer with trolls, a brave hand puppet and songs. Ages 3+, mainly nursery and early-school kids.",
+"by": "claude-task",
+"ctx": true
+},
+"AugusteART: Fotoworkshop \"Wir werden sehen\"": {
+"title": "AugusteART: Photography Workshop \"Wir werden sehen\"",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Workshop with photographer Juli Schmidt: create photo series on portrait, self-portrait, city or landscape themes. Bring a camera or smartphone.",
+"by": "claude-task",
+"ctx": true
+},
+"Aids-Kino in der Bibliothek Schöneberg": {
+"title": "AIDS Cinema at Bibliothek Schöneberg",
+"kind": "film",
+"audience": "everyone",
+"summary": "For World AIDS Day, with Berliner Aids-Hilfe: documentary \"Die Uneinsichtigen\" on AIDS activism in Frankfurt (53 min, English subtitles).",
+"by": "claude-task",
+"ctx": true
+},
+"Lesung: Eine bäuerliche Jugend in Berlin": {
+"title": "Reading: A Farming Youth in Berlin",
+"kind": "talk",
+"audience": "everyone",
+"summary": "Norbert Stähr reads from his novel \"GEGESSEN WIRD UM ZWÖLF\" about growing up on his family's farm in Berlin-Lichterfelde, at Thomas-Dehler-Bibliothek.",
+"by": "claude-task",
+"ctx": true
+},
+"Silent Friend – Ein Film von Ildikó Enyedi": {
+"title": "Silent Friend – A Film by Ildikó Enyedi",
+"kind": "film",
+"audience": "everyone",
+"summary": "Screening of Ildikó Enyedi's film about a ginkgo tree in Marburg's botanical garden that links the lives of three people over more than a century.",
+"by": "claude-task",
+"ctx": true
+},
+"Weihnachtsbasar im Auswärtigen Amt": {
+"title": "Christmas Bazaar at the Auswärtiges Amt",
+"kind": "market",
+"audience": "everyone",
+"summary": "Diplomats of the Auswärtiges Amt sell donated items from around the world – pictures, vases, jewellery, textiles – in the building's atrium.",
+"by": "claude-task",
+"ctx": true
+},
+"\"Winterbasar in der Regenbogenfabrik\"": {
+"title": "Winter Bazaar at Regenbogenfabrik",
+"kind": "market",
+"audience": "everyone",
+"summary": "Courtyard bazaar with food, mulled wine, stalls of local initiatives selling handmade goods for good causes, a flea stall and acoustic live music.",
+"by": "claude-task",
+"ctx": true
+},
+"Gemeinsam Weihnachtsbriefe gestalten x ArtNight x Markthalle Neun x Nora Blum": {
+"title": "Christmas Card Making with ArtNight, Markthalle Neun & Nora Blum",
+"kind": "workshop",
+"audience": "everyone",
+"summary": "Make Christmas cards together.",
+"by": "claude-task",
+"ctx": true
+},
+"Der Weihnachtsbläserbus kommt zum Paul Gerhardt Stift": {
+"title": "The Christmas Brass Bus Comes to Paul Gerhardt Stift",
+"kind": "music",
+"audience": "everyone",
+"summary": "An open double-decker bus touring Berlin with a brass choir playing Advent and Christmas songs from the top deck. The concert lasts only 10 minutes.",
+"by": "claude-task",
+"ctx": true
+},
+"Lunch-Konzerte im Auswärtigen Amt": {
+"title": "Lunchtime Concerts at the Auswärtiges Amt",
+"kind": "music",
+"audience": "everyone",
+"summary": "A 30-minute lunchtime concert: an international ensemble plays Mozart's Clarinet Quintet.",
+"by": "claude-task",
+"ctx": true
+},
+"JuBi - Die JugendBildungsmesse in Berlin": {
+"title": "JuBi – Youth Education Fair in Berlin",
+"kind": "market",
+"audience": "kids",
+"summary": "Fair on going abroad: organisations present school exchanges, au pair, work & travel, volunteering, internships and scholarships, with advice at the stands.",
+"by": "claude-task",
+"ctx": true
+},
+"Ground Control to Friedrichshain: Bowie-Vinyl-Party zum 80. Geburtstag": {
+"title": "Ground Control to Friedrichshain: Bowie Vinyl Party for His 80th",
+"kind": "party",
+"audience": "everyone",
+"summary": "DJane Mrs. Stardust and DJ Sway play only David Bowie vinyl – over 300 records, classics and rarities – at The Other Room at Gibneys Berlin.",
+"by": "claude-task",
+"ctx": true
 }
 }
