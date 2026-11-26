@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-26T01:38:46.431893+00:00",
- "count": 1135,
+ "generated_at": "2026-11-26T06:45:56.772242+00:00",
+ "count": 1134,
  "counts": {
-  "events": 1135,
+  "events": 1134,
   "recurring": 396,
-  "oneoff": 739,
+  "oneoff": 738,
   "always_free": 16,
   "manual_check": 207
  },
@@ -10339,7 +10339,7 @@
    "id": "25c4d4802a91b17fdf6482dd2ce7b685e6c4b685"
   },
   {
-   "title": "Weihnachtsmarkt in Wedding - Adventssonntage + Sa. vor Weihnachten: Kunst, Handwerk, Streetfood & Musik",
+   "title": "Christmas Market in Wedding: Art, Crafts, Street Food & Music",
    "start": "2026-11-29T11:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2064450-weihnachtsmarkt-in-wedding-drei-adventssonntage",
@@ -10355,14 +10355,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Weihnachtsmarkt in Wedding - Adventssonntage + Sa. vor Weihnachten: Kunst, Handwerk, Streetfood & Musik",
    "kind": "market",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "f4ac97272156743bfacb380b56a3c2a326361d78"
+   "summary": "Outdoor market on Leopoldplatz with handmade art, design and street food, plus a campfire and side programme. Open 11–19, free entry.",
+   "classified_by": "claude-task",
+   "id": "732c7a3b8d7514d8f4bb529004d56dc82160d83c"
   },
   {
    "title": "Togo: Neue Verbindungen knüpfen – Talk with Scholars and Artists",
@@ -11054,14 +11054,14 @@
    "id": "9ad8cf19aeb48d69b513b60989e004788cc21fdd"
   },
   {
-   "title": "Lagerfeuer und kostenloses Stockbrot für Kinder (Adventssontage & Sa 20.12.)",
+   "title": "Campfire and Free Stick Bread for Kids",
    "start": "2026-11-29T15:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2064451-lagerfeuer-und-kostenloses-stockbrot-fuer-kinder-adventssontage-sa-20-12",
    "end": null,
    "venue": null,
    "area": null,
-   "category": "misc",
+   "category": "market",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -11070,14 +11070,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "Lagerfeuer und kostenloses Stockbrot für Kinder (Adventssontage & Sa 20.12.)",
+   "kind": "market",
    "audience": "kids",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "e905eaacdabf0db348f39d1db12f40e8dd73d790"
+   "summary": "Free stick bread over the campfire for children at the Wedding Christmas market on Leopoldplatz, 15–19 while stocks last. With music and choirs.",
+   "classified_by": "claude-task",
+   "id": "43d25ef7979bd7a578eb61dd26b4eb3c0dc29b14"
   },
   {
    "title": "Who writes his_tory? Feminist Voices on Wikipedia",
@@ -11828,14 +11828,14 @@
    "id": "628c2f791d8bfe2e5e5a9114a68c6266c30eafdb"
   },
   {
-   "title": "Weihnachten im Hexenwald                                                                   ",
+   "title": "Christmas in the Witches' Forest",
    "start": "2026-11-30T10:00:00+01:00",
    "source": "cal:Brotfabrik (Bühne · Kino · free gallery, Weißensee)",
    "url": "https://brotfabrik-berlin.de/veranstaltung/weihnachten-im-hexenwald/2026-11-30/",
    "end": "2026-11-30T12:00:00+01:00",
    "venue": "BÜHNE Brotfabrik, Cali­ga­ri­platz 1, Berlin, Berlin, 13086",
    "area": "Pankow",
-   "category": "misc",
+   "category": "theatre",
    "is_free": true,
    "price": "Donation",
    "price_value": null,
@@ -11844,14 +11844,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "ical",
-   "title_orig": null,
-   "kind": "misc",
-   "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "ad6e91a0f9ca030424c79136fd8677e47988ac5c"
+   "title_orig": "Weihnachten im Hexenwald                                                                   ",
+   "kind": "theatre",
+   "audience": "kids",
+   "summary": "Children's play by Beatrice Ellinger for ages 3–8 (about 40 min): Santa takes a shortcut through a forest of witches, fairies and present-stealing trolls.",
+   "classified_by": "claude-task",
+   "id": "326e470cde3391f93dff062dd385acd1d234756d"
   },
   {
    "title": "General fitness, Volkspark Lichtenrade",
@@ -15626,14 +15626,14 @@
    "id": "db02645ff8e4f0ab0ddd947750d653e11e4a4c7e"
   },
   {
-   "title": "Emil rettet das Weihnachtsfest in der Bibliothek Schöneberg",
+   "title": "Emil Saves Christmas at Bibliothek Schöneberg",
    "start": "2026-12-01T16:30:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082291-emil-rettet-das-weihnachtsfest-in-der-bibliothek-schoeneberg",
    "end": null,
    "venue": "Hauptstr. 40 10827",
    "area": "Tempelhof-Schöneberg",
-   "category": "misc",
+   "category": "theatre",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -15642,14 +15642,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
-   "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "98be7c6a0896f1a8f56cd1f9eee6a1b59579c0c4"
+   "title_orig": "Emil rettet das Weihnachtsfest in der Bibliothek Schöneberg",
+   "kind": "theatre",
+   "audience": "kids",
+   "summary": "Musical sing-along Christmas tale by Ich & Herr Meyer with trolls, a brave hand puppet and songs. Ages 3+, mainly nursery and early-school kids.",
+   "classified_by": "claude-task",
+   "id": "208c5165e977f22f1979aa78079c0c08a367c16b"
   },
   {
    "title": "Crafts Course for Children at Tik",
@@ -15685,7 +15685,7 @@
    "id": "151b6e5c2f463637a845b135c9d5fe13476b869f"
   },
   {
-   "title": "AugusteART: Workshop \"Japanische Kalligraphie (Shodo)\"",
+   "title": "AugusteART: Japanese Calligraphy (Shodo) Workshop",
    "start": "2026-12-01T17:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082292-augusteart-workshop-japanische-kalligraphie-shodo",
@@ -15701,14 +15701,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "AugusteART: Workshop \"Japanische Kalligraphie (Shodo)\"",
    "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "e85c24a2f9624590006f691dcb21a047455c143d"
+   "summary": "Introduction to Japanese calligraphy (Shodo) with Ichi Go: brush technique, posture and concentration, and Japan's three writing systems.",
+   "classified_by": "claude-task",
+   "id": "d949702c6bc33d72c2caaa87749c287344ce306e"
   },
   {
    "title": "Info Session: DUO Mentoring for Apprentices",
@@ -18147,7 +18147,7 @@
    "id": "0f4b2896e39925e429b34e7a46db664c48f8b236"
   },
   {
-   "title": "AugusteART: Fotoworkshop \"Wir werden sehen\"",
+   "title": "AugusteART: Photography Workshop \"Wir werden sehen\"",
    "start": "2026-12-02T15:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082290-augusteart-fotoworkshop-wir-werden-sehen",
@@ -18163,14 +18163,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "AugusteART: Fotoworkshop \"Wir werden sehen\"",
    "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "1ffb1e2bdeb145b2bb1e70450a052a04296a7a1a"
+   "summary": "Workshop with photographer Juli Schmidt: create photo series on portrait, self-portrait, city or landscape themes. Bring a camera or smartphone.",
+   "classified_by": "claude-task",
+   "id": "75c3f45de73d35a3cf26c2d8f87d48a69d491e71"
   },
   {
    "title": "Auf einen Tee mit Till: Book Club for Adults, Bibliothek Schöneberg",
@@ -19921,7 +19921,7 @@
    "id": "5277c300b5f94e6f648073c1521667a564da7e9c"
   },
   {
-   "title": "Aids-Kino in der Bibliothek Schöneberg",
+   "title": "AIDS Cinema at Bibliothek Schöneberg",
    "start": "2026-12-02T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082289-aids-kino-in-der-bibliothek-schoeneberg",
@@ -19937,14 +19937,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Aids-Kino in der Bibliothek Schöneberg",
    "kind": "film",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "8702b25042a9f74fa870dac463fd59501140347c"
+   "summary": "For World AIDS Day, with Berliner Aids-Hilfe: documentary \"Die Uneinsichtigen\" on AIDS activism in Frankfurt (53 min, English subtitles).",
+   "classified_by": "claude-task",
+   "id": "32b53e779306d27fff2c7881c2d97b6eeb67dd19"
   },
   {
    "title": "Reading Czechia: Kristina Hamplová Reads from \"Lover/Fighter\"",
@@ -20658,7 +20658,7 @@
    "id": "98762a09b44a7d34701c39617994febd220e4c22"
   },
   {
-   "title": "Silent Friend – Ein Film von Ildikó Enyedi",
+   "title": "Silent Friend – A Film by Ildikó Enyedi",
    "start": "2026-12-03T19:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082279-silent-friend-ein-film-von-ildiko-enyedi",
@@ -20674,14 +20674,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Silent Friend – Ein Film von Ildikó Enyedi",
    "kind": "film",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "e993ebeeebbea7a92f9d82adcf10e1359dfeb96b"
+   "summary": "Screening of Ildikó Enyedi's film about a ginkgo tree in Marburg's botanical garden that links the lives of three people over more than a century.",
+   "classified_by": "claude-task",
+   "id": "710191f96ebf80d64c8b858238268af87ed531ad"
   },
   {
    "title": "Comic Reading \"Bunny war böse\" with Lilli Loge",
@@ -20814,7 +20814,7 @@
    "id": "c85c9153351c694263eb51734f45034db4b380c8"
   },
   {
-   "title": "Lesung: Eine bäuerliche Jugend in Berlin",
+   "title": "Reading: A Farming Youth in Berlin",
    "start": "2026-12-03T19:30:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082288-lesung-eine-baeuerliche-jugend-in-berlin",
@@ -20830,14 +20830,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Lesung: Eine bäuerliche Jugend in Berlin",
    "kind": "talk",
-   "audience": "kids",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "9a4271bd39faec0696cb9f35f3c908bdc9c4ef52"
+   "audience": "everyone",
+   "summary": "Norbert Stähr reads from his novel \"GEGESSEN WIRD UM ZWÖLF\" about growing up on his family's farm in Berlin-Lichterfelde, at Thomas-Dehler-Bibliothek.",
+   "classified_by": "claude-task",
+   "id": "44bf762d5029451f6fc8dd929efeaacc4cc53a19"
   },
   {
    "title": "Hossdorf 100: From Physical to Cognitive Model",
@@ -21152,7 +21152,7 @@
    "id": "57759d6d08f0175b891abf15190e1b525c77332f"
   },
   {
-   "title": "Weihnachtsbasar im Auswärtigen Amt",
+   "title": "Christmas Bazaar at the Auswärtiges Amt",
    "start": "2026-12-04T15:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082281-weihnachtsbasar-im-auswaertigen-amt",
@@ -21168,14 +21168,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Weihnachtsbasar im Auswärtigen Amt",
    "kind": "market",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "4c30354abaaaaf6a3fdbe44f1f99d6ec85895313"
+   "summary": "Diplomats of the Auswärtiges Amt sell donated items from around the world – pictures, vases, jewellery, textiles – in the building's atrium.",
+   "classified_by": "claude-task",
+   "id": "75e4324a815cb2d0cc0f4432c7dfc97667f545d1"
   },
   {
    "title": "Workshops with Café Atmosphere at Ingeborg-Drewitz Library",
@@ -21984,7 +21984,7 @@
    "id": "c32f2536c4545aee325df785dd53df89806a12a2"
   },
   {
-   "title": "Weihnachtsbasar im Auswärtigen Amt",
+   "title": "Christmas Bazaar at the Auswärtiges Amt",
    "start": "2026-12-05T12:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082282-weihnachtsbasar-im-auswaertigen-amt",
@@ -22000,14 +22000,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Weihnachtsbasar im Auswärtigen Amt",
    "kind": "market",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "8c0912c578fff287b95c7149cce6b5186a4a1529"
+   "summary": "Diplomats of the Auswärtiges Amt sell donated items from around the world – pictures, vases, jewellery, textiles – in the building's atrium.",
+   "classified_by": "claude-task",
+   "id": "1239454d797559dfed7f3cc8c76420047c5ffd25"
   },
   {
    "title": "Radical Christmas Market",
@@ -22920,7 +22920,7 @@
    "id": "80b346d30f8b63c30077923da0dffbe05992671b"
   },
   {
-   "title": "\"Winterbasar in der Regenbogenfabrik\"",
+   "title": "Winter Bazaar at Regenbogenfabrik",
    "start": "2026-12-06T14:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082278-winterbasar-in-der-regenbogenfabrik",
@@ -22936,14 +22936,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "\"Winterbasar in der Regenbogenfabrik\"",
    "kind": "market",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "287bbf351b23aacfaf2e548d1a99bcdd24b6054c"
+   "summary": "Courtyard bazaar with food, mulled wine, stalls of local initiatives selling handmade goods for good causes, a flea stall and acoustic live music.",
+   "classified_by": "claude-task",
+   "id": "c54170962f578753dbc5902d4027be38eb2582c0"
   },
   {
    "title": "Groovity Music Market x ://glühweingarten at ://about blank",
@@ -23128,14 +23128,14 @@
    "id": "6d6c8752291a94183aa1d2793c0c3a91ce0ff60e"
   },
   {
-   "title": "Gemeinsam Weihnachtsbriefe gestalten x ArtNight x Markthalle Neun x Nora Blum",
+   "title": "Christmas Card Making with ArtNight, Markthalle Neun & Nora Blum",
    "start": "2026-12-07T16:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082287-gemeinsam-weihnachtsbriefe-gestalten-x-artnight-x-markthalle-neun-x-nora-blum",
    "end": null,
    "venue": "Eisenbahnstraße 42",
    "area": null,
-   "category": "exhibition",
+   "category": "workshop",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -23144,14 +23144,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "exhibition",
+   "title_orig": "Gemeinsam Weihnachtsbriefe gestalten x ArtNight x Markthalle Neun x Nora Blum",
+   "kind": "workshop",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "d764a5d4cd4b596f44fb07e9154f2ee46f651f03"
+   "summary": "Make Christmas cards together.",
+   "classified_by": "claude-task",
+   "id": "95556c52ed0b1c03d5103175927d9f42234941e9"
   },
   {
    "title": "The Stasi's Employees: Tour of the Permanent Exhibition",
@@ -25320,32 +25320,6 @@
    "id": "ee6170280c31f195c7c685f796e0126ad4c2fb23"
   },
   {
-   "title": "Language Café (German B1–C1)",
-   "start": "2026-12-11T10:30:00.000Z",
-   "source": "web:Meetup Berlin",
-   "url": "https://www.meetup.com/internationales-sprachcafe-im-offenen-wohnzimmer/events/317470209/",
-   "end": null,
-   "venue": "Goethe-Institut Berlin Sprachschule Deutschkurse Neue Schönhauser Str. 20, 10178 Berlin, Germany, Berlin, BE Berlin",
-   "area": "Mitte",
-   "category": "meetup",
-   "is_free": true,
-   "price": null,
-   "price_value": null,
-   "image": null,
-   "description": null,
-   "recurring": false,
-   "recurrence": null,
-   "dates": null,
-   "translated": true,
-   "date_source": "jsonld",
-   "title_orig": "Sprachcafé☕(Niveau B1-C1)",
-   "kind": "meetup",
-   "audience": "everyone",
-   "summary": "Regular language café to practise German at B1–C1 level in a relaxed atmosphere and meet new people.",
-   "classified_by": "claude-task",
-   "id": "6cd30692a8210a48940446277e57becc943a1fc3"
-  },
-  {
    "title": "Book Breakfast at the Luise (Bibliothek am Luisenbad)",
    "start": "2026-12-11T11:00:00+01:00",
    "source": "gib:gratis-in-berlin",
@@ -25528,14 +25502,14 @@
    "id": "db2404e1c7e34c1592a6413b15eccb1f3197aae7"
   },
   {
-   "title": "Der Weihnachtsbläserbus kommt zum Paul Gerhardt Stift",
+   "title": "The Christmas Brass Bus Comes to Paul Gerhardt Stift",
    "start": "2026-12-11T17:50:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082286-der-weihnachtsblaeserbus-kommt-zum-paul-gerhardt-stift",
    "end": null,
    "venue": "Müllerstraße 56",
    "area": null,
-   "category": "misc",
+   "category": "music",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -25544,14 +25518,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "Der Weihnachtsbläserbus kommt zum Paul Gerhardt Stift",
+   "kind": "music",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "4146a7bef3e56e042d3f41d96d5705709ab98bc4"
+   "summary": "An open double-decker bus touring Berlin with a brass choir playing Advent and Christmas songs from the top deck. The concert lasts only 10 minutes.",
+   "classified_by": "claude-task",
+   "id": "5549f21da680ac5d243f87914cd4a7de471b1f08"
   },
   {
    "title": "Games Night: Blood on the Clocktower in Schöneberg",
@@ -26776,7 +26750,7 @@
    "id": "5059ad225587d6c5b59eefa57da3225ad7caff15"
   },
   {
-   "title": "Lunch-Konzerte im Auswärtigen Amt",
+   "title": "Lunchtime Concerts at the Auswärtiges Amt",
    "start": "2026-12-14T13:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082283-lunch-konzerte-im-auswaertigen-amt",
@@ -26792,14 +26766,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Lunch-Konzerte im Auswärtigen Amt",
    "kind": "music",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "11dc45dd8728f98c5aa3f0caa6f5a3b74135bd51"
+   "summary": "A 30-minute lunchtime concert: an international ensemble plays Mozart's Clarinet Quintet.",
+   "classified_by": "claude-task",
+   "id": "e02cd116581a20e0261c2e376f71c04a95ed26be"
   },
   {
    "title": "Open games afternoon",
@@ -27166,7 +27140,7 @@
    "id": "2af04e2ea9abd3af3da07c5efa389d43bac48a38"
   },
   {
-   "title": "Lunch-Konzerte im Auswärtigen Amt",
+   "title": "Lunchtime Concerts at the Auswärtiges Amt",
    "start": "2026-12-15T13:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082284-lunch-konzerte-im-auswaertigen-amt",
@@ -27182,14 +27156,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Lunch-Konzerte im Auswärtigen Amt",
    "kind": "music",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "4bb2911b66bb1824c82b38cf4745d19b5de4de7a"
+   "summary": "A 30-minute lunchtime concert: an international ensemble plays Mozart's Clarinet Quintet.",
+   "classified_by": "claude-task",
+   "id": "94875c954859f36ef2f9bea80b95ff43074c191d"
   },
   {
    "title": "Theatre Workshop and Intercultural Exchange for Women",
@@ -32340,14 +32314,14 @@
    "id": "6cfae01266247d4d451aa15a776beb6625c6b758"
   },
   {
-   "title": "JuBi - Die JugendBildungsmesse in Berlin",
+   "title": "JuBi – Youth Education Fair in Berlin",
    "start": "2027-01-09T10:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2082232-jubi-die-jugendbildungsmesse-in-berlin",
    "end": null,
    "venue": "Wilhelmstraße 140 10963",
    "area": "Friedrichshain-Kreuzberg",
-   "category": "misc",
+   "category": "market",
    "is_free": true,
    "price": null,
    "price_value": null,
@@ -32356,14 +32330,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
-   "kind": "misc",
+   "title_orig": "JuBi - Die JugendBildungsmesse in Berlin",
+   "kind": "market",
    "audience": "kids",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "93b7422281ed663f8b8fdf6974df15797d92d0c3"
+   "summary": "Fair on going abroad: organisations present school exchanges, au pair, work & travel, volunteering, internships and scholarships, with advice at the stands.",
+   "classified_by": "claude-task",
+   "id": "8e8f7c9dabc8e540c4abf1d0f24c3c7b08f19792"
   },
   {
    "title": "Yoga: A Short Break",
@@ -32470,7 +32444,7 @@
    "id": "d894fe15c5614d3e1c89d685b04000ca5ec5eef9"
   },
   {
-   "title": "Ground Control to Friedrichshain: Bowie-Vinyl-Party zum 80. Geburtstag",
+   "title": "Ground Control to Friedrichshain: Bowie Vinyl Party for His 80th",
    "start": "2027-01-09T18:00:00+01:00",
    "source": "gib:gratis-in-berlin",
    "url": "https://www.gratis-in-berlin.de/kalender/item/2081951-ground-control-to-friedrichshain-bowie-vinyl-party-zum-80-geburtstag",
@@ -32486,14 +32460,14 @@
    "recurring": false,
    "recurrence": null,
    "dates": null,
-   "translated": false,
+   "translated": true,
    "date_source": "daypage",
-   "title_orig": null,
+   "title_orig": "Ground Control to Friedrichshain: Bowie-Vinyl-Party zum 80. Geburtstag",
    "kind": "party",
    "audience": "everyone",
-   "summary": null,
-   "classified_by": "rules",
-   "id": "a1e7c43d498f2ca53daf048ed2decac375df5d31"
+   "summary": "DJane Mrs. Stardust and DJ Sway play only David Bowie vinyl – over 300 records, classics and rarities – at The Other Room at Gibneys Berlin.",
+   "classified_by": "claude-task",
+   "id": "d8af3b5386334eeb39fb1e56d7d61f51f6da8e92"
   },
   {
    "title": "El Funko + Hiddit!",
