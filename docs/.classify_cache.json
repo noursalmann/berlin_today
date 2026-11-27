@@ -14900,5 +14900,21 @@
 "summary": "DJane Mrs. Stardust and DJ Sway play only David Bowie vinyl – over 300 records, classics and rarities – at The Other Room at Gibneys Berlin.",
 "by": "claude-task",
 "ctx": true
+},
+"Morgen vor langer Zeit": {
+"title": "Morgen vor langer Zeit (Tomorrow a Long Time Ago)",
+"kind": "film",
+"audience": "everyone",
+"summary": "Feature film by Luise Donschen (2026, 91 min): in 1990 Patty loses her job, collects things left by people who moved away, and journeys through time.",
+"by": "claude-task",
+"ctx": true
+},
+"Founder Meet&Greet & Cofounder Search: Red Hats Edition!": {
+"title": "Founder Meet&Greet and Cofounder Search: Red Hats Edition",
+"kind": "meetup",
+"audience": "group",
+"summary": "Meetup for founders looking for support, a co-founder, or answers to their questions.",
+"by": "claude-task",
+"ctx": true
 }
 }
